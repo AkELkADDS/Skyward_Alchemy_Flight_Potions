@@ -1,6 +1,7 @@
 Skyward Alchemy - Flight Potions
 
-ModIO Nexus
+ModIO
+Nexus
 
 DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd
 
