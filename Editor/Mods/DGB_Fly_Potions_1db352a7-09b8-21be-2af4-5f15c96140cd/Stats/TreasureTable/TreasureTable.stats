@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
+  <stat_objects>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="534b9ad9-2e70-4ac0-821d-10029a7a16f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Chest_Heavy_A_Small_EL_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1256c78c-6e49-4be1-b5c2-8d445d769404" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_30" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_Cleaning" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba77c333-fa18-4398-aea4-327398c2b538" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_3" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_Basic" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f2395fd7-e241-4867-8d28-5dddda3fe822" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_BasicDragon" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="25f7f691-c790-44eb-8bd0-4a04d6654cb2" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_12" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_BloodWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7b406ccb-2b38-4d63-8412-3e251e42bbe7" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_13" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_BloodBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9621d9c8-ed84-445f-aafc-d85f0c83a1b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_SorecWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c58ec19b-172a-43ca-a82c-e79eea27cba2" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_ThunderWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="77d8dc1b-0d59-43a8-a97c-e848be1c1abe" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_2" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_ThunderBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cff8b8de-f5c8-479e-9877-c11db0919d1a" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_8" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_LightningWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="39aea201-bcee-4f51-9157-dacbbfb6cfaa" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_9" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_LightningBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008B8B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b34bb1df-a31d-45cd-a001-b2869fa45f28" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_10" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_AcidWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c34a48ff-de7b-46c2-99a8-8046a639152c" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_11" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_AcidBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3999f170-75b3-46d1-8290-60d969676e8f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_14" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_FireWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="80a9c670-ebb2-4c0a-ab9f-ba8c2f887477" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_15" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_FireBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="34bf3a11-a430-4c9c-a62e-40f275e5d15d" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_16" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_FrostWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fadb59a3-b0d1-4b45-91e4-0196a178b710" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_17" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_FrostBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="30bcaeda-9054-448f-b442-b2677cccaa2b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_18" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_NecroWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bc030d47-5583-47da-a931-b2c9724f2ea7" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_19" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_NecroBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008000" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="80b2f215-cff9-4ea5-b218-55bf3526c7ac" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_20" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_PoisonWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008000" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="71cdec58-f81f-4eb6-afbb-337f7fcc3c1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_21" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_PoisonBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bc3ca911-a1eb-46fb-a21e-df8bd2043ac5" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_22" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_PsyWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2e34059a-1d5d-4dcf-a35a-7d242fee3111" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_23" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_PsyBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a2d1a9e8-7620-4760-85c0-71e24907d94f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_24" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_RadiantWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="500437b9-3a4a-49fc-9267-0d73afcec2f1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_25" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_RadiantBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="05d524f0-cca8-45f4-9c48-fcb872e72457" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_26" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_DarkWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eff824de-380a-4513-8a78-1f9d4014cf4a" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_27" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_DarkBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3cf9095d-9e8b-44ce-b572-e9ead7edaadb" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_28" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_SporeWind" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77da270f-cc10-4c00-9e2a-9c2cb756dd4b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ea50a35b-ab93-4e54-999d-d5f1320c5cf8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Shelf_PotionsOfFly_A_TT_substat_29" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_POF_Potion_Fly_SporeBoom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

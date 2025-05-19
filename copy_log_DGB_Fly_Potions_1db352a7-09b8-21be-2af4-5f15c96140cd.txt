@@ -1,0 +1,489 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+   Mon 05/19/2025  4:12:37.43 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\thumbnail.PNG 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\055ecab1-3fc7-48fd-a4aa-5655f460178c.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\0b05171b-4798-4930-88a8-a9e011c0b693.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\11158300-ee7f-4392-9021-8bb6434a2e0d.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2a370080-f3b6-4aef-81eb-37a25b90a347.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2aac6193-50e1-45be-9117-52d523941f7a.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2df8716d-155a-4687-b14f-ef39406a32d3.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\30ae022d-4a1c-4574-ba86-254b385de3ec.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3a6e368b-444a-407e-af9d-81fded3fc3bf.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3f4f22b1-5089-4584-b453-20cc54d10f4e.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\4d3cdb88-3ed8-470a-b3d8-7c8ca27ffd5a.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\52497585-579f-4e58-8de0-1e6ad1ab29d8.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\615efdc9-88fa-4aad-b9b8-af035ff7fcf7.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\645d2343-b7a1-46da-bb19-564dc5b2c125.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\849638aa-9b0d-4372-bf5d-47c77982bf8d.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d6fae5f-cccd-4781-8f17-6838652bb32e.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d7964ad-16bb-4aaa-82c3-addb58f16a97.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9dea3845-cb2f-417a-9519-5398c46dfd39.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\a1b9789f-5dbe-47f5-9c2f-dff641020533.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\bc6f09ad-9644-4a75-bfff-1a31d3e0ca48.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\be3761ed-8c28-49fc-873c-e9b54646279e.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cb9e0688-ccef-44e8-a9ea-28765c3e6d8c.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cd15678b-cc77-4f24-a8a5-0343e298291d.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\dd1cc7aa-9082-4987-a603-cc171ba3c755.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\e3b765dc-2fd9-475f-8b71-955518726a06.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\ed026b48-815a-4f15-983b-9aca5c41b38b.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4abc447-6c8e-43f8-bc23-7326b2a80cbc.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4f27c5c-9dff-4f11-9e02-56358a621823.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f6ef4547-3858-4105-8381-22153384f791.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\2370cfd1-772f-498f-9c18-5007780e9424.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\355982bd-05a0-4f8e-af37-326e38ff3df3.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\3657c838-3c17-4784-b658-bfe1d0fc1a75.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\39262ad0-39f4-4a6a-ad33-e963ea7a5ace.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\556fe7a0-8a78-47a5-b426-4033d525c847.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\5c42e6a8-fe4e-4be5-ae81-f96fab0d8a9e.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\944f6a43-49ab-435e-b7eb-96beba5f29db.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\9c73d5d5-b72b-48fe-881e-580bb800e2c7.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\b778b28a-61c7-4fd1-af6f-308ef6dd4a24.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\c095ce4e-b0fa-4f87-adea-b3e2a9d0a137.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\c0fe649e-fc53-4814-9868-b95474ed0e23.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\d25b9adc-1b0f-49fa-8d91-83266be25b95.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\d2f6cbe6-e8a3-49f6-9aa4-e4742b70a84f.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\SpellData\Projectile.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Stats\Object.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Stats\Passive.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\StatusData\Status_BOOST.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\TreasureTable\TreasureTable.stats 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 47 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\055ecab1-3fc7-48fd-a4aa-5655f460178c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\0b05171b-4798-4930-88a8-a9e011c0b693.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\11158300-ee7f-4392-9021-8bb6434a2e0d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2a370080-f3b6-4aef-81eb-37a25b90a347.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2aac6193-50e1-45be-9117-52d523941f7a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2df8716d-155a-4687-b14f-ef39406a32d3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\30ae022d-4a1c-4574-ba86-254b385de3ec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3a6e368b-444a-407e-af9d-81fded3fc3bf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3f4f22b1-5089-4584-b453-20cc54d10f4e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\4d3cdb88-3ed8-470a-b3d8-7c8ca27ffd5a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\52497585-579f-4e58-8de0-1e6ad1ab29d8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\615efdc9-88fa-4aad-b9b8-af035ff7fcf7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\645d2343-b7a1-46da-bb19-564dc5b2c125.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\849638aa-9b0d-4372-bf5d-47c77982bf8d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d6fae5f-cccd-4781-8f17-6838652bb32e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d7964ad-16bb-4aaa-82c3-addb58f16a97.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9dea3845-cb2f-417a-9519-5398c46dfd39.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\a1b9789f-5dbe-47f5-9c2f-dff641020533.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\bc6f09ad-9644-4a75-bfff-1a31d3e0ca48.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\be3761ed-8c28-49fc-873c-e9b54646279e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cb9e0688-ccef-44e8-a9ea-28765c3e6d8c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cd15678b-cc77-4f24-a8a5-0343e298291d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\dd1cc7aa-9082-4987-a603-cc171ba3c755.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\e3b765dc-2fd9-475f-8b71-955518726a06.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\ed026b48-815a-4f15-983b-9aca5c41b38b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4abc447-6c8e-43f8-bc23-7326b2a80cbc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4f27c5c-9dff-4f11-9e02-56358a621823.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f6ef4547-3858-4105-8381-22153384f791.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\107c77bc-fc87-483c-baa4-1bd96c1b779d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\1c2b3c34-ef88-4d76-9305-c949db3b0ed5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\252c9b0e-0663-487b-bfaa-3ade716b2433.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\25ee09ed-1308-4ea4-8bc8-1f5ba8334a00.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\29f4426a-5600-4a5d-b7b7-701dc2dfe004.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\356f2f33-6ba5-41e9-b7ae-6e18762305c9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\43ee977b-fcbc-4901-825b-86fddd96d760.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\47d7736d-2793-4c04-9895-eb935780a2c7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\49060d4a-96bd-480d-8c10-4a160aa78403.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\4ef4a871-ae9f-4b2d-9c49-b82ebdce42b2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\550d5960-d81e-48a7-bbd0-bd73174a4a02.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\55c12734-6a4f-4780-9349-4469b9dbec1c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\57e3a660-170b-4e28-be1a-704a1b9ff780.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\604daa4a-05bb-42f3-b038-b27e518d2929.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\616c33fd-1a1c-4f7e-8752-f45e6593bbff.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\62876d4e-e777-49be-9866-5b57c84c2d49.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\65e2abeb-4653-495e-beaf-e168ed2e6410.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\777e0edd-1ee8-491b-a77a-fdb7c8f3a20f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\8e111a4f-c26b-4fba-b876-3385273cb5cc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\8e3a316a-f6b8-4100-90e0-0000917038bf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\95142b23-55c0-4c02-9cab-9682942752e5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\a04b356b-f4b0-4d99-933c-61bfa80b6277.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\a288ac94-f51d-4ddf-a0db-3f2da467f3f6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\c3fc2e89-2dab-4573-8b9b-b3da41ed47b6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\c5121253-ddea-4c4a-8ff7-ede50b4aafbd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\c668f023-a00f-433a-b11d-a2b9d8d4ab37.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\de6e9217-0c19-4a67-b4af-6c3f88f909ad.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\e8163871-6d21-4059-9a74-7dde4593ebaa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\f2ba761d-3457-4718-a05c-3842b8a0cc5e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\ffe187d5-71d4-4f3d-b84c-2b2cf34288a5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\TreasureTable.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\Data\Object.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\Data\Spell_Projectile.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\Data\Status_BOOST.txt 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 63 
+ 
+[LOG] Total files found across all folders: 115 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd to Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using destination: Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:12:40 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     693	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx100%  
+	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\thumbnail.PNG 78%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.91 m    1.91 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2005385000 Bytes/sec.
+   Speed :           114749.050 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:40 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd to "Editor\Mods"\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using destination: Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:12:42 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\055ecab1-3fc7-48fd-a4aa-5655f460178c.mei100%  
+	    New File  		    5373	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\0b05171b-4798-4930-88a8-a9e011c0b693.mei100%  
+	    New File  		    1344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\11158300-ee7f-4392-9021-8bb6434a2e0d.mei100%  
+	    New File  		    4265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2a370080-f3b6-4aef-81eb-37a25b90a347.mei100%  
+	    New File  		    4282	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2aac6193-50e1-45be-9117-52d523941f7a.mei100%  
+	    New File  		    4839	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2df8716d-155a-4687-b14f-ef39406a32d3.mei100%  
+	    New File  		    1344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\30ae022d-4a1c-4574-ba86-254b385de3ec.mei100%  
+	    New File  		    4851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3a6e368b-444a-407e-af9d-81fded3fc3bf.mei100%  
+	    New File  		    4866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3f4f22b1-5089-4584-b453-20cc54d10f4e.mei100%  
+	    New File  		    4266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\4d3cdb88-3ed8-470a-b3d8-7c8ca27ffd5a.mei100%  
+	    New File  		    4266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\52497585-579f-4e58-8de0-1e6ad1ab29d8.mei100%  
+	    New File  		    4287	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\615efdc9-88fa-4aad-b9b8-af035ff7fcf7.mei100%  
+	    New File  		    1346	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\645d2343-b7a1-46da-bb19-564dc5b2c125.mei100%  
+	    New File  		    4281	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\849638aa-9b0d-4372-bf5d-47c77982bf8d.mei100%  
+	    New File  		    4280	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d6fae5f-cccd-4781-8f17-6838652bb32e.mei100%  
+	    New File  		    4288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d7964ad-16bb-4aaa-82c3-addb58f16a97.mei100%  
+	    New File  		    4263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9dea3845-cb2f-417a-9519-5398c46dfd39.mei100%  
+	    New File  		    1348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\a1b9789f-5dbe-47f5-9c2f-dff641020533.mei100%  
+	    New File  		    3701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\bc6f09ad-9644-4a75-bfff-1a31d3e0ca48.mei100%  
+	    New File  		    5970	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\be3761ed-8c28-49fc-873c-e9b54646279e.mei100%  
+	    New File  		    4281	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cb9e0688-ccef-44e8-a9ea-28765c3e6d8c.mei100%  
+	    New File  		    4270	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cd15678b-cc77-4f24-a8a5-0343e298291d.mei100%  
+	    New File  		    4280	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\dd1cc7aa-9082-4987-a603-cc171ba3c755.mei100%  
+	    New File  		    4282	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\e3b765dc-2fd9-475f-8b71-955518726a06.mei100%  
+	    New File  		    4280	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\ed026b48-815a-4f15-983b-9aca5c41b38b.mei100%  
+	    New File  		    4259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4abc447-6c8e-43f8-bc23-7326b2a80cbc.mei100%  
+	    New File  		    4264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4f27c5c-9dff-4f11-9e02-56358a621823.mei100%  
+	    New File  		    4278	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f6ef4547-3858-4105-8381-22153384f791.mei100%  
+	    New File  		     789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.tbl100%  
+	    New File  		     162	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\2370cfd1-772f-498f-9c18-5007780e9424.group100%  
+	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\355982bd-05a0-4f8e-af37-326e38ff3df3.group100%  
+	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\3657c838-3c17-4784-b658-bfe1d0fc1a75.group100%  
+	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\39262ad0-39f4-4a6a-ad33-e963ea7a5ace.group100%  
+	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\556fe7a0-8a78-47a5-b426-4033d525c847.group100%  
+	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\5c42e6a8-fe4e-4be5-ae81-f96fab0d8a9e.group100%  
+	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\944f6a43-49ab-435e-b7eb-96beba5f29db.group100%  
+	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\9c73d5d5-b72b-48fe-881e-580bb800e2c7.group100%  
+	    New File  		     159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\b778b28a-61c7-4fd1-af6f-308ef6dd4a24.group100%  
+	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\c095ce4e-b0fa-4f87-adea-b3e2a9d0a137.group100%  
+	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\c0fe649e-fc53-4814-9868-b95474ed0e23.group100%  
+	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\d25b9adc-1b0f-49fa-8d91-83266be25b95.group100%  
+	    New File  		     156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\d2f6cbe6-e8a3-49f6-9aa4-e4742b70a84f.group100%  
+	    New File  		   88215	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\SpellData\Projectile.stats100%  
+	    New File  		   26690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Stats\Object.stats100%  
+	    New File  		     145	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Stats\Passive.stats100%  
+	    New File  		   43579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\StatusData\Status_BOOST.stats100%  
+	    New File  		   24822	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\TreasureTable\TreasureTable.stats100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        12        12         1         0         0         0
+   Files :        47        47         0         0         0         0
+   Bytes :   291.2 k   291.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            13555727 Bytes/sec.
+   Speed :             775.664 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:42 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 47 
+[DEBUG] Successfully copied files: 47 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 
+      Total files: 47 
+      Copied successfully: 47 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd to Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using destination: Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:12:44 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4022	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx100%  
+	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\mod_publish_logo.png100%  
+	    New File  		   48441	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :    1.96 m    1.96 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2057155000 Bytes/sec.
+   Speed :           117711.353 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd to Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[DEBUG] Using destination: Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:12:45 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5127	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\055ecab1-3fc7-48fd-a4aa-5655f460178c.lsf100%  
+	    New File  		    6053	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\0b05171b-4798-4930-88a8-a9e011c0b693.lsf100%  
+	    New File  		    2534	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\11158300-ee7f-4392-9021-8bb6434a2e0d.lsf100%  
+	    New File  		    5120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2a370080-f3b6-4aef-81eb-37a25b90a347.lsf100%  
+	    New File  		    5163	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2aac6193-50e1-45be-9117-52d523941f7a.lsf100%  
+	    New File  		    5615	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\2df8716d-155a-4687-b14f-ef39406a32d3.lsf100%  
+	    New File  		    2533	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\30ae022d-4a1c-4574-ba86-254b385de3ec.lsf100%  
+	    New File  		    5658	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3a6e368b-444a-407e-af9d-81fded3fc3bf.lsf100%  
+	    New File  		    5700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\3f4f22b1-5089-4584-b453-20cc54d10f4e.lsf100%  
+	    New File  		    5121	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\4d3cdb88-3ed8-470a-b3d8-7c8ca27ffd5a.lsf100%  
+	    New File  		    5121	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\52497585-579f-4e58-8de0-1e6ad1ab29d8.lsf100%  
+	    New File  		    5167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\615efdc9-88fa-4aad-b9b8-af035ff7fcf7.lsf100%  
+	    New File  		    2536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\645d2343-b7a1-46da-bb19-564dc5b2c125.lsf100%  
+	    New File  		    5161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\849638aa-9b0d-4372-bf5d-47c77982bf8d.lsf100%  
+	    New File  		    5160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d6fae5f-cccd-4781-8f17-6838652bb32e.lsf100%  
+	    New File  		    5165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9d7964ad-16bb-4aaa-82c3-addb58f16a97.lsf100%  
+	    New File  		    5118	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\9dea3845-cb2f-417a-9519-5398c46dfd39.lsf100%  
+	    New File  		    2538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\a1b9789f-5dbe-47f5-9c2f-dff641020533.lsf100%  
+	    New File  		    4632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\bc6f09ad-9644-4a75-bfff-1a31d3e0ca48.lsf100%  
+	    New File  		    6589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\be3761ed-8c28-49fc-873c-e9b54646279e.lsf100%  
+	    New File  		    5161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cb9e0688-ccef-44e8-a9ea-28765c3e6d8c.lsf100%  
+	    New File  		    5123	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\cd15678b-cc77-4f24-a8a5-0343e298291d.lsf100%  
+	    New File  		    5161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\dd1cc7aa-9082-4987-a603-cc171ba3c755.lsf100%  
+	    New File  		    5162	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\e3b765dc-2fd9-475f-8b71-955518726a06.lsf100%  
+	    New File  		    5160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\ed026b48-815a-4f15-983b-9aca5c41b38b.lsf100%  
+	    New File  		    5125	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4abc447-6c8e-43f8-bc23-7326b2a80cbc.lsf100%  
+	    New File  		    5119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4f27c5c-9dff-4f11-9e02-56358a621823.lsf100%  
+	    New File  		    5159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f6ef4547-3858-4105-8381-22153384f791.lsf100%  
+	    New File  		     600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.lsx100%  
+	    New File  		    3894	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\107c77bc-fc87-483c-baa4-1bd96c1b779d.lsf100%  
+	    New File  		    3073	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\1c2b3c34-ef88-4d76-9305-c949db3b0ed5.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\252c9b0e-0663-487b-bfaa-3ade716b2433.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\25ee09ed-1308-4ea4-8bc8-1f5ba8334a00.lsf100%  
+	    New File  		    3902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\29f4426a-5600-4a5d-b7b7-701dc2dfe004.lsf100%  
+	    New File  		    3893	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\356f2f33-6ba5-41e9-b7ae-6e18762305c9.lsf100%  
+	    New File  		    3316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\43ee977b-fcbc-4901-825b-86fddd96d760.lsf100%  
+	    New File  		    3897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\47d7736d-2793-4c04-9895-eb935780a2c7.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\49060d4a-96bd-480d-8c10-4a160aa78403.lsf100%  
+	    New File  		    3902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\4ef4a871-ae9f-4b2d-9c49-b82ebdce42b2.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\550d5960-d81e-48a7-bbd0-bd73174a4a02.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\55c12734-6a4f-4780-9349-4469b9dbec1c.lsf100%  
+	    New File  		    3887	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\57e3a660-170b-4e28-be1a-704a1b9ff780.lsf100%  
+	    New File  		    3884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\604daa4a-05bb-42f3-b038-b27e518d2929.lsf100%  
+	    New File  		    3893	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\616c33fd-1a1c-4f7e-8752-f45e6593bbff.lsf100%  
+	    New File  		    3902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\62876d4e-e777-49be-9866-5b57c84c2d49.lsf100%  
+	    New File  		    3902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\65e2abeb-4653-495e-beaf-e168ed2e6410.lsf100%  
+	    New File  		    3893	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\777e0edd-1ee8-491b-a77a-fdb7c8f3a20f.lsf100%  
+	    New File  		    3897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\8e111a4f-c26b-4fba-b876-3385273cb5cc.lsf100%  
+	    New File  		    3898	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\8e3a316a-f6b8-4100-90e0-0000917038bf.lsf100%  
+	    New File  		    3898	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\95142b23-55c0-4c02-9cab-9682942752e5.lsf100%  
+	    New File  		    3910	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\a04b356b-f4b0-4d99-933c-61bfa80b6277.lsf100%  
+	    New File  		    3884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\a288ac94-f51d-4ddf-a0db-3f2da467f3f6.lsf100%  
+	    New File  		    3880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\c3fc2e89-2dab-4573-8b9b-b3da41ed47b6.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\c5121253-ddea-4c4a-8ff7-ede50b4aafbd.lsf100%  
+	    New File  		    3886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\c668f023-a00f-433a-b11d-a2b9d8d4ab37.lsf100%  
+	    New File  		    3910	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\de6e9217-0c19-4a67-b4af-6c3f88f909ad.lsf100%  
+	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\e8163871-6d21-4059-9a74-7dde4593ebaa.lsf100%  
+	    New File  		    3893	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\f2ba761d-3457-4718-a05c-3842b8a0cc5e.lsf100%  
+	    New File  		    3880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\ffe187d5-71d4-4f3d-b84c-2b2cf34288a5.lsf100%  
+	    New File  		    2690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\TreasureTable.txt100%  
+	    New File  		    6439	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\Data\Object.txt100%  
+	    New File  		   35085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\Data\Spell_Projectile.txt100%  
+	    New File  		   16612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Generated\Data\Status_BOOST.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :        63        63         0         0         0         0
+   Bytes :   306.4 k   306.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            19613187 Bytes/sec.
+   Speed :            1122.275 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:45 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 63 
+[DEBUG] Successfully copied files: 63 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd: 
+      Total files: 63 
+      Copied successfully: 63 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 47 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 63 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 115 
+[SUMMARY] Total files successfully copied: 230 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

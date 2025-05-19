@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="03568c42-e699-42bd-b7fb-7c4d056f1d48" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_Basic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc0436df5g4579g4db8g9e49g3ade752afc24" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_BasicFly_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="72ca88ae-9db2-44ea-9022-fd58e4e3602c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_DragonFly" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2472fbd5gdd4cgb959g5123g9e6d0b03ea02" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_DragonFly_EL_1);" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFCD5C5C" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3a46ec0-c6ca-4a98-b177-f4baaec0ee10" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_SorcWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h62f9e95dg9fd1gc69cg8ed8g318ea18c3aed" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_TempestuousMagic_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d12cec7-3d03-4585-ba8d-2cc7ff741eed" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_ThunderWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb7a000acgf37ege5f2gcd11g3817aacdc6c4" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" color="#FF483D8B" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" color="#FF483D8B" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" color="#FF483D8B" value="UnlockSpell(Projectile_Fly_ThunderWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="297b1eff-530b-4911-ae46-d98c946c5319" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_ThunderBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6012a539g99abg0d72ge688g8a7bfd59a05f" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_ThunderBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="884b32dd-d9f6-4987-a514-462235567271" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_LightningWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5ca50248gd43egc44cg2946g9ae7b61c52e8" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_LightningWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8932b053-c750-4aef-9e48-f01ef96c2f39" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_LightningBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0b419fb9g066cg45cega48eg45eae359f222" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_LightningBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bd3e5dc2-7d3e-4835-88fa-81b69dda0b01" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_AcidWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf252248fgbcb7gce57g2766g96ad06c14e65" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_AcidWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="177edb6d-e76f-4ef6-8350-89bb6403e359" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_AcidBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha809815ag2c71g5606g7966ga485f0167a0c" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_AcidBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc0fb123-66c5-44f9-8367-76ab4c5b1713" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_BloodWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h21645438g10f0g97cbg3846g6f0ae70514f2" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_BloodWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a2089e5a-9860-45cd-a723-2c289d944715" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_BloodBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfc457e02g8919g5080g5a67ge48cc1977a66" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_BloodBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d4d7ebe4-6366-4a1f-b3e4-736e2c9fb956" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_FireWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd614256bgb1fag66bbg2111g12556c19b073" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_FireWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b071b1b-6e56-475d-b774-3c2fe13be5f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_FireBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7229b3adg7bb7g7c97gb943g5e4d02cbdbbf" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_FireBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56027c83-7f8b-464c-ae8f-912729c64994" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_FrostWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7ff607b7g28adgdfabgc347g191828861db2" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_FrostWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7a85dd94-64de-4672-85cf-07c0d7977c85" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_FrostBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5357edd3gf731g995egcde0gc7e8f5fe2f85" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_FrostBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="752a78a4-8d12-4ed0-a91a-089869cc537a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_NecroWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5c0d13f5gc878g420aga987gb552bab06014" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_NecroWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0186e0ee-8c11-43de-b051-8ca77bfe90b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_NecroBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd1c91371g7602g3056g934cgba26244c33db" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_NecroBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF228B22" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1f83d47f-2dd8-41b6-9db3-fcd45a989d8a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_PoisonWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hea927050gaa5dg1454g3f6dg15c5867ee15f" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_PoisonWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF228B22" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="300488a7-818f-4974-bf48-19425737303d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_PoisonBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h047dc013g7b6fg5f03g7d79g895b2d8bd793" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_PoisonBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="91998cab-2865-4b7c-b4b6-3652be2e92e3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_PsyWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h93877bceg63b4g17f5g5799g8611929d1647" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_PsyWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ef3d6aa-42b2-4406-9be4-a39158d7cd45" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_PsyBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9c1887dfg0ffbg00b4g5537g855209c377fc" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_PsyBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90281dec-59d4-46fe-9341-7a463d9016fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_RadiantWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7853a42bgd9f3g5c49g41bcg9c891db2054a" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_RadiantWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7ff809c5-8185-4f37-bd25-00620d86338e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_RadiantBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8467796dgba07gfc4cg1e8eg4f9c17e0774e" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_RadiantBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ed03f933-78c9-4f98-b171-02c3c99eae61" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_DarkWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c413da5g2f28g0edcgd019g830ee46e1038" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_DarkWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ce861dca-2931-41e8-aa04-e3a678a3cf5c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_DarkBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd6834847ge82bg6f9cg066cgdf2b78713ded" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_DarkBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1d357844-42d8-4052-86f1-45420916e4d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_SporeWind" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he347971fgba5eg63d0g2840g481a67de82f6" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_SporeWind_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd9e4efd-14db-4ced-8a9b-4e0185fd4e9a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_SporeBoom" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h58f88260g3dfcgc6a1gee0eg447208d0df89" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Fly_SporeBoom_EL_1);" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="daaae24f-1629-40ef-afa1-14768f1d4a3d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ALCH_POF_Potion_Fly_Cleaning" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h62d1dc1dg0089gf6d5g3fedgdd1af9d0f6af" version="2" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Fly" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="66381954-eae3-4d37-9051-a6cdca4e2867" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_Fly_MO_Stop" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(ALCH_POF_Potion_Fly_Basic); RemoveStatus(ALCH_POF_Potion_Fly_DragonFly); RemoveStatus(ALCH_POF_Potion_Fly_SorcWind); RemoveStatus(ALCH_POF_Potion_Fly_ThunderWind); RemoveStatus(ALCH_POF_Potion_Fly_ThunderBoom); RemoveStatus(ALCH_POF_Potion_Fly_LightningWind); RemoveStatus(ALCH_POF_Potion_Fly_LightningBoom); RemoveStatus(ALCH_POF_Potion_Fly_AcidWind); RemoveStatus(ALCH_POF_Potion_Fly_AcidBoom); RemoveStatus(ALCH_POF_Potion_Fly_BloodWind); RemoveStatus(ALCH_POF_Potion_Fly_BloodBoom); RemoveStatus(ALCH_POF_Potion_Fly_FireWind); RemoveStatus(ALCH_POF_Potion_Fly_FireBoom);RemoveStatus(ALCH_POF_Potion_Fly_FrostWind); RemoveStatus(ALCH_POF_Potion_Fly_FrostBoom); RemoveStatus(ALCH_POF_Potion_Fly_NecroWind); RemoveStatus(ALCH_POF_Potion_Fly_NecroBoom); RemoveStatus(ALCH_POF_Potion_Fly_PoisonWind); RemoveStatus(ALCH_POF_Potion_Fly_PoisonBoom); RemoveStatus(ALCH_POF_Potion_Fly_PsyWind); RemoveStatus(ALCH_POF_Potion_Fly_PsyBoom); RemoveStatus(ALCH_POF_Potion_Fly_RadiantWind); RemoveStatus(ALCH_POF_Potion_Fly_RadiantBoom); RemoveStatus(ALCH_POF_Potion_Fly_DarkWind);  RemoveStatus(ALCH_POF_Potion_Fly_DarkBoom); RemoveStatus(ALCH_POF_Potion_Fly_SporeWind); RemoveStatus(ALCH_POF_Potion_Fly_SporeBoom);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="1db352a7-09b8-21be-2af4-5f15c96140cd"/>
+            <attribute id="Name" type="LSString" value="DGB_Fly_Potions"/>
+            <attribute id="UUID" type="LSString" value="ca2602c5-a761-e723-d655-4dd3f47aa7e8"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

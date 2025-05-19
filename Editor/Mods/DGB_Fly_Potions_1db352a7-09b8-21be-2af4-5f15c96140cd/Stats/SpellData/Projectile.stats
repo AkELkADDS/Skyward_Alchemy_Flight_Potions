@@ -1,0 +1,804 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="67731907-4ad8-4be6-9326-d6f5b982140e">
+  <stat_objects>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2fd099cf-3194-4ba6-a5f9-f9d3927bb598" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_DragonFly_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcf5d4fb5ge021gf748g4ffcg8f5f3395f7e1" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="had72e8a2g6eb0gcc3dg4c45gee456781e4b9" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f03af070-58b6-4c6b-94c4-4524a565dd84" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_BasicFly_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hec9d54eegc2beg969dg5062g490a73e54e0f" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8c71db15g8ba4g11b7g27e8g4cdca112fceb" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c2c3864-8b0c-4d7d-8c12-00673348e3b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_TempestuousMagic_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd8d45f43gf192ge27dg5263g0843e293a1b5" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="64cac8bb-445e-4e2c-9b4d-7932d0025ff9" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="f390851a-973f-41bc-be46-daf93f610842" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc0cf3422g9d89g3f64g4b43g8f2153d73e21" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9d61d24-0c80-4b56-9bff-fb89af0b0459" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_ThunderWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h580b553cg76dfg6165g4906gd8e9c37744ef" version="3" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="055ecab1-3fc7-48fd-a4aa-5655f460178c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="615efdc9-88fa-4aad-b9b8-af035ff7fcf7" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Damage_Thunder_Gen_L1to3" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd7b387e6g2e2dgc191gd3c0g1b9e82f9be67" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d0257a24-56c0-4dcd-a5ea-26dc20875cee" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="Fly_ThunderBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" color="#FF228B22" handle="hb5969d72g79d2g4960g02ffgc0ef772ef937" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="055ecab1-3fc7-48fd-a4aa-5655f460178c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="615efdc9-88fa-4aad-b9b8-af035ff7fcf7" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" color="#FF483D8B" value="Spell_Prepare_Damage_Thunder_Gen_L1to3" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Damage_Thunder_Thunderwave_L1to3_01" />
+        <field name="Icon" type="StringTableFieldDefinition" color="#FF4B0082" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Thunder,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" color="#FF228B22" value="DealDamage(1d4,Thunder)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" color="#FF228B22" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" color="#FF228B22" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" color="#FF228B22" value="Thunder" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" color="#FF228B22" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" color="#FF483D8B" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" color="#FF228B22" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" color="#FF228B22" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="645d2343-b7a1-46da-bb19-564dc5b2c125" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(DestroyWater);RemoveStatus(WET);" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha0843355g1376gf6a8ge1bcgdd4a2dd1bebe" version="5" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4bb87626-0ce3-4523-9f4b-75ae2451efa4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_LightningWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h03572870g50c8ge31bg9611gcf09010a670c" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="2df8716d-155a-4687-b14f-ef39406a32d3" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="9d7964ad-16bb-4aaa-82c3-addb58f16a97" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Damage_Thunder_Gen_L1to3" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8dfaae51g14b2ga17dg8343g51b3cc52efe7" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8f32ef89-bd20-4a97-8ea1-a4e81d98e6bb" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_LightningBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6e1e1274g05d1g1cb7g6829g6e550deaf586" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="2df8716d-155a-4687-b14f-ef39406a32d3" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="9d7964ad-16bb-4aaa-82c3-addb58f16a97" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Damage_Thunder_Gen_L1to3" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Damage_Thunder_Thunderwave_L1to3_01" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Lightning,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Lightning)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Lightning" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_Electric" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="a1b9789f-5dbe-47f5-9c2f-dff641020533" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Electrify);GROUND:CreateSurface(2,2,WaterElectrified);" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc48ea411g4caagd6bbgc48bg0a3a66073234" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ff2db498-ea92-40e0-a1b6-52f1b6db9694" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_AcidWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1b78047dgaf46gbdd7g8fe9g8f21176bda06" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="2a370080-f3b6-4aef-81eb-37a25b90a347" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="9d6fae5f-cccd-4781-8f17-6838652bb32e" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h41b592f4g1b78g7a47gbd71g20465bcba351" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c73dcb77-06ef-4e0f-9702-cc7ce520425b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_AcidBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4f2eff89g4daeg5e4agce3bg47d0ef4c37c1" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="2a370080-f3b6-4aef-81eb-37a25b90a347" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="9d6fae5f-cccd-4781-8f17-6838652bb32e" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Lightning,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Acid)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Acid" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(2,0,Acid)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf3999aeagb684g20f0ge75cg62259fe1fae2" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="44b1097e-74ab-4380-b421-79e52d6b8f9a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_BloodWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="4d3cdb88-3ed8-470a-b3d8-7c8ca27ffd5a" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="cb9e0688-ccef-44e8-a9ea-28765c3e6d8c" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35be0644g0a6ega3bag633egc858f4aed862" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he19211afgade6gf851g5684g65b1372a72f6" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="40443cc0-7d4c-4c80-81e2-e41c7136c09c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_BloodBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="4d3cdb88-3ed8-470a-b3d8-7c8ca27ffd5a" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="cb9e0688-ccef-44e8-a9ea-28765c3e6d8c" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Dexterity, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Piercing,Physical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Piercing)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Dexterity" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="PhysicalDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="645d2343-b7a1-46da-bb19-564dc5b2c125" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha0b1bb01g738bg5961gb2f0g8c35c6cc03f8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h96117ec6g4f93ga4b5g88d4g5f9cdc897ea5" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7836a579-665d-4c81-8eac-b41ce468858f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_FireWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="9dea3845-cb2f-417a-9519-5398c46dfd39" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ed026b48-815a-4f15-983b-9aca5c41b38b" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hecbc1e9bgea0eg7dafg4685g6c7ebbed3bad" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc9dafe3ag658dg6e48gfb4dg01e1f5157b57" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8781ea66-c08f-42cb-b2cf-57181783bdc3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_FireBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="9dea3845-cb2f-417a-9519-5398c46dfd39" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ed026b48-815a-4f15-983b-9aca5c41b38b" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Fire,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Fire)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="30ae022d-4a1c-4574-ba86-254b385de3ec" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Ignite);GROUND:SurfaceChange(Melt);GROUND:CreateSurface(2,2,Fire);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd3e1ea48g56aeg54e0ge21cgd6ed240b3ddf" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h355d806bga889g457agdecdg0220085b1ab9" version="3" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="685ab5a3-e955-4261-9585-3f50280e2556" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_FrostWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="be3761ed-8c28-49fc-873c-e9b54646279e" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="3f4f22b1-5089-4584-b453-20cc54d10f4e" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h33592fa8gc701g6deegd295g40e29303639e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0068edddg5df2g56bcg3badg0dce6d57a43e" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="731a5df8-0227-4f5e-b564-2894691572f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_FrostBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="be3761ed-8c28-49fc-873c-e9b54646279e" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="3f4f22b1-5089-4584-b453-20cc54d10f4e" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Cold,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Cold)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Cold" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="11158300-ee7f-4392-9021-8bb6434a2e0d" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Freeze);GROUND:CreateSurface(2,2,WaterFrozen);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb366be9ge186g5c26g673agcfbe126e8a2c" version="1" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6d11894dgc600g877fga924g02dc731f545f" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ef849d21-1481-4bf1-92a3-a9cb6a9b2da3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_NecroWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3a6e368b-444a-407e-af9d-81fded3fc3bf" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="dd1cc7aa-9082-4987-a603-cc171ba3c755" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6822e705g966fg50cdg76degd7c6669e5647" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6b945eedg13b3g7841g6b96gbc016fc1f580" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d4e5d804-e7df-4c33-8d8b-f77e9e972ff4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_NecroBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3a6e368b-444a-407e-af9d-81fded3fc3bf" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="dd1cc7aa-9082-4987-a603-cc171ba3c755" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Necromancy" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Necrotic,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Necrotic)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Necrotic" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(2,2,ShadowCursedVines,true);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h00af3a15g8339g19f0g1bf0gba8a7fa69464" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb9bd5843gbca5gb595gb644gcee117f4430f" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF006400" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="23ac2793-72e6-4eb0-b48a-eb01a40e4f17" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_PoisonWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="bc6f09ad-9644-4a75-bfff-1a31d3e0ca48" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="e3b765dc-2fd9-475f-8b71-955518726a06" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he44a88dbg0e7agb1a4g1618g33c12f9da35f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbe51c56ag9efcg5ef7g28d0g44f25801ecf8" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF006400" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="58a39046-fe25-4081-9b72-3d789f41d72e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_PoisonBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="bc6f09ad-9644-4a75-bfff-1a31d3e0ca48" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="e3b765dc-2fd9-475f-8b71-955518726a06" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Poison,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Poison)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Poison" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="645d2343-b7a1-46da-bb19-564dc5b2c125" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(2,2,PoisonCloud);DealDamage(1d4+1,Poison);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdcb9e189g198egac35g1db0g2271eb2aa19c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he70e07beg0571ga02fg36fegc896fbdd5672" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3303b0e7-837c-418f-a92c-f09df7958f3f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_PsyWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="f4f27c5c-9dff-4f11-9e02-56358a621823" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="f6ef4547-3858-4105-8381-22153384f791" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="habc47407g4735g3221gb94fg9270b1edacbb" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb8c3fb06g46a9g481bg91ffgda0d003d6f8c" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="27e5cff5-bfff-44d6-8908-9836f07a7f9a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_PsyBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="f4f27c5c-9dff-4f11-9e02-56358a621823" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="f6ef4547-3858-4105-8381-22153384f791" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Psychic,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Psychic)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Psychic" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="f4d31c0c-89f9-42e2-b194-5ffa7fb6ec5a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h850eaf94gd342g9403g22e8g0c661f1c0c6c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3a7e27a4g2e0cgd150g5e05gc704016f1a81" version="3" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b014ea93-977b-4e03-ae19-61c43855b5c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_RadiantWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="cd15678b-cc77-4f24-a8a5-0343e298291d" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="2aac6193-50e1-45be-9117-52d523941f7a" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd9eb2b72gb6cfg1965gffcegcfb4f1a0df70" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha02933f6g30aagcf71g2a57ge9055a037234" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f08dac21-897c-4673-b1cd-068ea22af884" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_RadiantBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="cd15678b-cc77-4f24-a8a5-0343e298291d" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="2aac6193-50e1-45be-9117-52d523941f7a" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Radiant,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Radiant)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Radiant" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="645d2343-b7a1-46da-bb19-564dc5b2c125" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(2,2,HolyFire);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3eb7367cg608fgcd52g7f2ege7bbd6300cea" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc7ec2e68g947bg10fdg4f82g512079fd933b" version="4" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="401da63b-f1d5-4e0b-b069-a87cfc4c2f4b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_DarkWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="0b05171b-4798-4930-88a8-a9e011c0b693" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="f4abc447-6c8e-43f8-bc23-7326b2a80cbc" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h65060908g52c2geae6g6cabgf200c2b55a23" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h874dd145g66e7g2d12g400egb404ba0f5831" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5bb62de4-a7c6-4fad-881e-c2f6d2c3766e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_DarkBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="0b05171b-4798-4930-88a8-a9e011c0b693" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="f4abc447-6c8e-43f8-bc23-7326b2a80cbc" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Necromancy" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Necrotic,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Necrotic)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Necrotic" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="5db12be3-7d0b-4358-b99b-63bed35cc580" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(2,2,DarknessCloud,true);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he825d0a8g7a2ag25fegaf63g31d2ccc49e74" version="2" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h23a22619gc9ebg718bgd7a7ga3ffe45a6e82" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ac7fd8dd-8ebd-4cee-a8dd-e7a4510bc42b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_SporeWind_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:Distance*0.5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="52497585-579f-4e58-8de0-1e6ad1ab29d8" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="849638aa-9b0d-4372-bf5d-47c77982bf8d" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hae1b61a8g576ag87beg3af5ga627952bf99b" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9d25c6b0ga056g7bd7g580dg5d7bac1668b1" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFE9967A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ea2d1a0-73b6-4c0f-847c-98f8dac4a7a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_SporeBoom_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="52497585-579f-4e58-8de0-1e6ad1ab29d8" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="849638aa-9b0d-4372-bf5d-47c77982bf8d" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Necromancy" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution, SourceSpellDC())" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d8,Necrotic,Magical);" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d4,Necrotic)" />
+        <field name="TooltipAttackSave" type="StringTableFieldDefinition" value="Constitution" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Necrotic" enumeration_type_name="Damage Type" version="1" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Surface('SurfaceChasm')" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="645d2343-b7a1-46da-bb19-564dc5b2c125" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h576a8857gc0bfg02afg786bg2bc740f78006" version="2" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(2,2,SporePinkCloud);" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdcfa8608g8272gd25agd437g4806d63e68c0" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b3a806c-9b9f-44b5-a8e5-ff560de58861" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_TempestuousMagic_BackUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfd3e9582g9947g75c8g4faag268cdf5e0079" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;Temporary;NoAOEDamageOnLand;IgnoreAoO" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="64cac8bb-445e-4e2c-9b4d-7932d0025ff9" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="f390851a-973f-41bc-be46-daf93f610842" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Sorcerer_TempestuousMagic" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Sorcerer_TempestuousMagic" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_TempestuousMagic" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd02dbf9bga62cg8ea5g4940ge3ce36fec254" version="1" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Fly" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5d734d5d-785a-4f08-8b4f-e697700401c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_Spell_BAckup" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;NoAOEDamageOnLand;IsJump;Temporary;Wildshape" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f8f2df6-2cfd-4e43-90f5-61930886ca7f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_Spell_BackUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21a440e2-13ce-4b12-b7a3-5847137807b2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgnoreVerticalThreshold;Stealth;Invisible;CannotTargetCharacter;CannotTargetItems;NoAOEDamageOnLand;IsJump;Temporary;Wildshape" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellActionType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="SpellActionType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9dd34c9-676f-464c-bc04-fa133a34783d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ChromaticOrb_Thunder_BackUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ababef8-c892-4130-935d-849b8eac396c" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(3d8,Thunder,Magical)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(3d8,Thunder)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_ChromaticOrb_Thunder" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h278cfc77ga18bg88ecgd5dbg1d02261d86fa" version="1" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="c7cd4b0a-2b2e-47ae-a4e8-849ad5d448f8" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="db5705a1-824d-42a3-8d09-2352b9cd4af9" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="2b284468-04a1-4730-a5c0-8ce54afbd937" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Damage_Thunder_ChromaticOrbThunder_L1to3" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h439ee69egf705g1573ge9a6g8ec4aa61e2a1" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Thunder" enumeration_type_name="Damage Type" version="1" />
+        <field name="TooltipUpcastDescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Thunder)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c804ebc-5d3f-4df4-bd29-00b4c3950819" />
+        <field name="Name" type="NameTableFieldDefinition" value="ChromaticOrb_Thunder_2_BackUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7907fa20-abbf-4712-a06c-629d5ee28b96" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(4d8,Thunder,Magical)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(4d8,Thunder)" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:2" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3d3bd54a-0743-4bc7-82f5-f93f29cdbeeb" />
+        <field name="Name" type="NameTableFieldDefinition" value="DivineStrike_Ranged_Tempest_BackUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6106eb9b-0f5d-4ad3-b43e-e65eb7f6c159" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(MainRangedWeapon, MainRangedWeaponDamageType);DealDamage(1d8,Thunder,Magical)" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Thunder);DealDamage(MainRangedWeapon, MainRangedWeaponDamageType)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(MainRangedWeapon, MainRangedWeaponDamageType);DealDamage(1d8,Thunder)" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="51c34a4d-0a1b-43c0-84f2-c20df649f081" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Thunder" enumeration_type_name="Damage Type" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf4128abfg5cc7gc2c0gb1e1g1536a204e77d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6f7f2efdgc60cgbf31gbb90g190ab8911778" version="1" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_DivineStrike_Tempest_Container" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8b0cdbe2-2462-49f3-aaef-f73baf865216" />
+        <field name="Name" type="NameTableFieldDefinition" value="WYR_GrenadeLauncher_Gortash_Explosion_BackUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="845dd288-4b4b-4583-8a84-114d6d467506" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="f7962041-ef8e-4a42-ba24-5927c582bd1a" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Dexterity, 18) " />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(5d10+18,Thunder);IF (not HasStatus('WYR_GORTASH_BANE_BUFF')):Force(4)" />
+        <field name="SpellFail" type="StringTableFieldDefinition" value="DealDamage((5d10)+18/2,Thunder)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Dead() and not (HasPassive('SculptSpells', context.Source))" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Ignite);GROUND:SurfaceChange(Melt); GROUND:CreateSurface(2,2,Fire)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(5d10+18,Thunder)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Explosion" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h994c7414gf473g8b2fgf1d2g3219df7f7586" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6094cbabgf03agbbc9ga7ebg4f081bbb3607" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(5d10+18,Thunder)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ba6e0387-c83d-4380-93fc-4af760a8d546" />
+        <field name="Name" type="NameTableFieldDefinition" value="UND_AdamantineForge_HammerImpact_BackUP" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb379fa7fg5859g2d79g808eg48ffa6f4864b" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsTrap;IsHarmful;ImmediateCast" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="DeathType" type="EnumerationTableFieldDefinition" value="KnockedDown" enumeration_type_name="Death Type" version="1" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="191b8fee-9a50-485f-bac3-ae59f6d06674" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="dc75f60c-beac-4588-a14a-43834eeb8f8f" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage(12d8+15,Bludgeoning);ApplyStatus(PRONE,100,2); GROUND:CreateSurface(3,0,None);ApplyStatus(UND_ADAMANTINEFORGE_HAMMERHELPER, 100, 1);RemoveStatus(UND_ADAMANTINEGOLEM_SUPERHEATED);ApplyStatus(AI_HELPER_SCRIPTEVENT,100,1);" />
+        <field name="WeaponType" type="EnumerationListTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="SpellFail" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(12d8+15,Bludgeoning)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(PRONE,100,2)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Dead()" />
+        <field name="ExtraProjectileTargetConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

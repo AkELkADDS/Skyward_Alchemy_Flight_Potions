@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="951f7f7e-76f6-4ec5-96a7-61312b04e58c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0603ae03-6b54-45cc-99ff-98742bd81677" />
+        <field name="Amount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="This heavy crude chest was stollen from Chaos Forge sometime long ago." />
+        <field name="ItemTemplateId" type="FixedStringTableFieldDefinition" value="43ee977b-fcbc-4901-825b-86fddd96d760" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

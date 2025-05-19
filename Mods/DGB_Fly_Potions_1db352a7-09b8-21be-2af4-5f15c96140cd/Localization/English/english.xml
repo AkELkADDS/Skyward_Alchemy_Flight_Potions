@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hf6ca5fd3gdd27ge883g856bgd4d2b3b7b572" version="1">Auntie Ethel's Hair</content>
+  <content contentuid="h30d8bb56g1edfg76c2ge32fgcb16c7e14f45" version="1">Consuming this piece of fey flesh grants a permanent +1 bonus to &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;.</content>
+  <content contentuid="hd5719152g25f1gc458gf73cgd9a61d400b5a" version="1">Two lice still scurry around on the little flap of skin attached to this clump of matted, crusty hair.</content>
+  <content contentuid="h7ce80708g260cg29dbg39d2g7d870722ffcc" version="15">Potion of Dragon’s Flight</content>
+  <content contentuid="hd762c712gee42gf314gfb7cg2dfce39ff54e" version="15">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="haa996ea0gfd77g3fcag3909g8d50d761c38a" version="15">Grants the ability to soar through the skies over long distances, infused with the strength and majesty of a dragon. The bottle contains a shimmering golden liquid that glows with an inner fire, radiating power and ancient magic. Once consumed, the user is imbued with the flight capabilities of a dragon - swift, powerful, and commanding - allowing them to glide effortlessly through the air and cover vast distances with ease, like a dragon in flight.</content>
+  <content contentuid="hb7a000acgf37ege5f2gcd11g3817aacdc6c4" version="2">Potion of Wind Flying</content>
+  <content contentuid="ha9e8137ag09a8g82f8g7b61g61b676a3877e" version="2">Feature Removal Ritual Skull</content>
+  <content contentuid="hdc5fff0cg51f3g1403gb728ga11b7d5be640" version="2">Removes all Bloodright features from the user.</content>
+  <content contentuid="he13a2e75g375fge200g9684ga8a3806db855" version="2">This skull's vacant eye sockets seem to draw you in, inviting you to join it in emptiness.</content>
+  <content contentuid="h57dba210g7188g01c9g55e5gfac45ac853e3" version="1">Grant Feature: Bite</content>
+  <content contentuid="h35e43ff7ga0dbg1620gdb2cg36e37559866e" version="1">Grants Bite: You can &lt;LSTag Type="Spell" Tooltip="Target_DUF_Spell_FeralBite"&gt;bite&lt;/LSTag&gt; a target to deal Piercing damage using a &lt;LSTag Tooltip="BonusAction"&gt;Bonus Action&lt;/LSTag&gt;.</content>
+  <content contentuid="h837b6323g9da8gbdc5g9003ge6c7f623db86" version="1">The humanoid jaw can produce a shocking amount of force for its size!</content>
+  <content contentuid="h1c2130bbgf3e7ge5b7ge2efgd17d5c79d337" version="9">Rack of Soaring Elixirs</content>
+  <content contentuid="h89d99d0cg8828gd229g323fg6d210523b253" version="9">This simple, wooden rack holds a variety of potions, each granting the user a unique ability to take flight. The bottles are lined up in an orderly fashion, their contents varying from crackling storm-like liquids to gentle, misty concoctions. Despite the rack's plain design, each bottle radiates a quiet, powerful energy, ready to grant the drinker the ability to soar through the air.</content>
+  <content contentuid="hf82a70cag8b70g0c9ag17d5g6d8bd9922bb7" version="2">Potion of Soaring Ambition</content>
+  <content contentuid="he667ef34g1238g1239g66ecg7af42e582c7d" version="2">Permanently gain the Fly ablity.  Unlimited uses.</content>
+  <content contentuid="hb5b84527gcc06gcbecg3d94gc731bf7d26f0" version="2">This blood-red potion bubbles and churns as if boiling, but feels cool when it touches your lips.  The taste is bitter, with a hint of... whiskey?  Try not to think about what it may have been brewed from as the chunks slide down your gullet.</content>
+  <content contentuid="h4f650807gb0abg4328gb233gb6d67be6aaf3" version="1">Elixir of Lightning Resistance</content>
+  <content contentuid="h1a093fbeg3bbcgc17cg6025gaa31fdf99f1b" version="1">Drink</content>
+  <content contentuid="h7cda1759gd5d5gc258g5df4g2607acd2d771" version="1">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning damage and can no longer be &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;Electrocuted&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED"&gt;Jolted&lt;/LSTag&gt;, or otherwise affected by lightning. This elixir can be thrown at a target to apply its effects.  </content>
+  <content contentuid="h312ee3e8gc822g3c9bg43d3g7264efa0aab3" version="1">This potion causes a tingling sensation in the extremities when consumed.</content>
+  <content contentuid="hb21d476ag4a03ge455g0808g8948868e35d8" version="1">Elixir of Resistance: Lightning</content>
+  <content contentuid="hafe870f7gf8f6g9fb8g7eeage3b5c46e50ee" version="4">Elixir of Necrotic Resistance</content>
+  <content contentuid="hafdc9765g7cb7g5e62g63a7gbbec04a310df" version="4">Drink</content>
+  <content contentuid="hcbc5c7fageaf6g4300g4812gcb02145f8d7b" version="4">Gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. This elixir can be thrown at a target to apply its effects. </content>
+  <content contentuid="hf146df8dg381egc48agae56gcae72fd44d9e" version="4">Smells of fresh herbs and berries. Some say flowers placed within will bloom indefinitely.</content>
+  <content contentuid="ha2940c3bg1151gc7f8g3b1eg6eb376b68b5c" version="4">Elixir of Resistance: Necrotic</content>
+  <content contentuid="h09deba5bg3ec4gd2f8ge97eg3aa01099d648" version="4">Elixir of Poison Resistance</content>
+  <content contentuid="ha29071ffg4385gf3f3g232ege6d194ff2cfd" version="4">Drink</content>
+  <content contentuid="h64807500ga5ddg85fbg7bb8g5392644d8f73" version="4">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Poison damage and can no longer be &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;. This elixir can be thrown at a target to apply its effects. </content>
+  <content contentuid="h61eb4e60gc450ge873gce29g174a4a45ecef" version="4">Popular among politicians and adventurers alike.</content>
+  <content contentuid="hec1dc34fge94dg9d38ge5d9g483492a8c296" version="4">Elixir of Resistance: Poison</content>
+  <content contentuid="h497852c8gf1e8gc33egcdb7g4f421c6c01f1" version="4">Elixir of Psychic Resistance</content>
+  <content contentuid="haf5cc0c4g113ag8a71gdcbag21703e7efd44" version="4">Drink</content>
+  <content contentuid="he033e2bag96e6gf921g4723g84508be8a373" version="4">Gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Psychic damage. This elixir can be thrown at a target to apply its effects. </content>
+  <content contentuid="h8f50adf5g8b7bgb546g5640g4075d6ce4151" version="4">This potion, reminiscent of whiskey in taste but not effect, is known to cause temporary ringing in the ears.</content>
+  <content contentuid="hb0cfc5b9g3e91gebf8gcc83g01f9dc5f8127" version="4">Elixir of Resistance: Psychic</content>
+  <content contentuid="h6ba4750dg6210g7a1dgdf62gb384675f6d96" version="4">Elixir of Lightning Resistance</content>
+  <content contentuid="h433b4075geb6egd482g5eeagcd2965e419a9" version="4">Drink</content>
+  <content contentuid="hbef95d77gdb96gc7a0gbed5g0a130df21a41" version="4">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning damage and can no longer be &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SHOCKED_SURFACE"&gt;Electrocuted&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED"&gt;Jolted&lt;/LSTag&gt;, or otherwise affected by lightning. This elixir can be thrown at a target to apply its effects.  </content>
+  <content contentuid="hafc36155g475egb567gbe54g0c594faee157" version="4">This potion causes a tingling sensation in the extremities when consumed.</content>
+  <content contentuid="h34d741a9g66e9g79e2g906agc1fc056a4da9" version="4">Elixir of Resistance: Lightning</content>
+  <content contentuid="h777f745fg8162g15d7gff70g49cceef652fc" version="1">Arsonist's Oil</content>
+  <content contentuid="hdfd5c723g40c5g875eg2c63gf916cf064b9e" version="1">Coat your weapon in an oil that strips targets that are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage of their Resistance.&lt;br&gt;&lt;br&gt;Targets that are &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Fire damage are unaffected.</content>
+  <content contentuid="h11cd5fbagc5abge70ag2a18g391cf2c6f1b5" version="1">'It was then that Swires tossed the oil. It splattered the cambion, and all at once its skin of brilliant carmine dulled to dark, a red like cheap wine, and the fiend vented this sound of anguish I almost pitied, for its very affinity for fire was now undone.'</content>
+  <content contentuid="h559566a9g573ag3741g1ed5g7dd219d9b430" version="1">Scroll of Remove Curse</content>
+  <content contentuid="h094b3f67g665eg83cbg5821g4b08d7bc9773" version="1">Auntie Ethel's Boon</content>
+  <content contentuid="h766b2036gba2egcc5cg80eag9a32ecf3f076" version="1">Eating Ethel's hairy scalp has granted you a permanent boost to Intelligence.</content>
+  <content contentuid="h5fcd3dadg9a8eg2b01gf081gf2ecaf77bf51" version="1">Eating Ethel's hairy scalp has granted you a permanent boost to Intelligence.</content>
+  <content contentuid="h9f8f6d35ga8e9g5e23gf33ag15cd3e0ffd76" version="1">Tempestuous Magic</content>
+  <content contentuid="hd45adb68g93d7gdac9g00b8g0706a6d54f51" version="1">After you cast a Level 1 spell or higher you can &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_TempestuousMagic"&gt;Fly&lt;/LSTag&gt; as a &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt; until the end of your turn without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="h580b553cg76dfg6165g4906gd8e9c37744ef" version="3">Thunder Wind Flight</content>
+  <content contentuid="hd9677661gbd31gc479g0dc7g81406bf11295" version="1">Fly to a nearby spot without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="hfd3e9582g9947g75c8g4faag268cdf5e0079" version="1">Tempestuous Magic: Flight</content>
+  <content contentuid="hd02dbf9bga62cg8ea5g4940ge3ce36fec254" version="1">Fly to a nearby spot without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="h4a7b3ad8ge43bgedf2gc0dag25f808f10769" version="1">Tempestuous Magic</content>
+  <content contentuid="h374e4032g7171g69d9g5021g1dfdc802f4c8" version="1">After you cast a Level 1 spell or higher you can &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_TempestuousMagic"&gt;Fly&lt;/LSTag&gt; as a &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt; until the end of your turn without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb0387c3gefc5gf1d1gd8c6g8ee421c39723" version="1">Potion of Flying</content>
+  <content contentuid="h56fca54agc83ag6554ge26ag9e6ed1b70ce9" version="8">Potion of Thunderwhirl Drift - Thunder</content>
+  <content contentuid="hece79f6egd687g545cge3d9g54d6dd95206d" version="8">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hbcdb15a6g8feag4c8fged61gdec7ae7dea8b" version="8">Grants the ability to soar to the target location, engulfed in a harmless storm of rumbling thunder. The bottle contains a deep gray liquid that shivers with faint, rolling sound. Once consumed, the user glides through the air surrounded by low, echoing thunderclaps - an awe-inspiring, yet gentle display of stormborn majesty that leaves no harm, only reverence in its wake.</content>
+  <content contentuid="hd14a2c2fg9678g8093g2cfegeb192f3c9b36" version="1">Potion of Flying</content>
+  <content contentuid="hb82edf84g7acag11a0g6f38g42af5ee9de31" version="7">Potion of Stormfall Impact - Thunder Harmful</content>
+  <content contentuid="hb805b56fg24f9g3c6cgf104gb678f112591c" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h40ac31fbg5720ge22dg3b6dgfa3a45339fbc" version="7">Grants the ability to unleash a thunderous strike upon landing, damaging all nearby and evaporating any water in the area. The bottle crackles with volatile energy, its stormy liquid swirling with arcs of lightning. Once consumed, the user becomes charged with thunderous force - when they land, the ground erupts with a booming shockwave that scorches the area dry and strikes all caught in its blast.</content>
+  <content contentuid="h6012a539g99abg0d72ge688g8a7bfd59a05f" version="2">Potion of Tunder Boom Flying</content>
+  <content contentuid="hb5969d72g79d2g4960g02ffgc0ef772ef937" version="2">Thunder Boom Flingt</content>
+  <content contentuid="h359c09bcg7615gb48eg1064g156aa3349e65" version="1">Fly to a nearby spot without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="hf26a4a1fg7cdag6187g93dag825e166bbbec" version="5">Potion of Swift Ascent</content>
+  <content contentuid="hccaaf10bg449fgf2b8ga458gc7a3056603ce" version="5">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h00d17d02g78c1gd314g20c7gcc14c4be9bc5" version="5">Grants the ability to fly for a short distance, allowing the user to hover or glide briefly through the air. The bottle contains a light, clear liquid that shimmers faintly as though infused with air itself. Once consumed, the user gains the ability to take flight for a limited time, rising quickly and smoothly, before gently landing back on the ground.</content>
+  <content contentuid="hc0436df5g4579g4db8g9e49g3ade752afc24" version="2">Potion of Basic Flying</content>
+  <content contentuid="h2472fbd5gdd4cgb959g5123g9e6d0b03ea02" version="2">Potion of Dragon Flying</content>
+  <content contentuid="h278cfc77ga18bg88ecgd5dbg1d02261d86fa" version="1">Chromatic Orb: Thunder</content>
+  <content contentuid="h439ee69egf705g1573ge9a6g8ec4aa61e2a1" version="1">Hurl a sphere of thunderous energy.</content>
+  <content contentuid="hf4128abfg5cc7gc2c0gb1e1g1536a204e77d" version="1">Divine Strike: Thunder (Ranged)</content>
+  <content contentuid="h6f7f2efdgc60cgbf31gbb90g190ab8911778" version="1">Deal an additional [1].</content>
+  <content contentuid="h994c7414gf473g8b2fgf1d2g3219df7f7586" version="1">Concussion Grenade</content>
+  <content contentuid="h6094cbabgf03agbbc9ga7ebg4f081bbb3607" version="1">The grenade explodes for [1].</content>
+  <content contentuid="hb379fa7fg5859g2d79g808eg48ffa6f4864b" version="1">Hammer Impact</content>
+  <content contentuid="h3878b5b0g42deg936dgaeefga16f6a8a3c5a" version="1">Thunder Boom Flingt</content>
+  <content contentuid="hcf5d4fb5ge021gf748g4ffcg8f5f3395f7e1" version="1">Fly to a target position.</content>
+  <content contentuid="hec9d54eegc2beg969dg5062g490a73e54e0f" version="1">Fly to a target position.</content>
+  <content contentuid="h5b35eb81gd304g6cffg3ed5g072f9fb508a0" version="1">Boots of Stormy Clamour</content>
+  <content contentuid="h4c9dfc9fg9b0ege51fg1f88g04b00cbb19ad" version="1">Peals of thunder rumble at the back of your skull with every step taken in these boots. </content>
+  <content contentuid="h6be91a5dg24fbgab4ag4e85g5d4cdf36bd7e" version="1">Arcane Echomalefaction</content>
+  <content contentuid="h41ed0a13g3da1g3356gc574g908d17dc4b09" version="1">When the wearer inflicts a condition upon a hostile creature, they also inflict [1] turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;.</content>
+  <content contentuid="hb335b8adg2244g24e6gfebbg14319e0ea1de" version="1">Bonespike Boots</content>
+  <content contentuid="h4f99841agc19eg784bgabd9g4edde2664f6c" version="1">Armour designed for the aerodynamic leaping and striking and general screaming of your standard barbarian. </content>
+  <content contentuid="h343a73cagf322g7b2eg5ab4g870a4b6a87bb" version="1">The Watersparkers</content>
+  <content contentuid="h6cd4bdafg0aacgdb98g65e7g091bbd705052" version="1">An enormous storm was raging the first time Yrre the Sparkstruck left the Underdark. The deep gnome's interest in lightning became at once an all-consuming obsession, and they would spend the rest of their years striving to recreate that storm's power themselves.</content>
+  <content contentuid="hee1442ddg2e63g2e84gb08dgbdb8c7eee377" version="1">Helldusk Boots</content>
+  <content contentuid="h2d686276gc4feg42c6g3f53g5a6a947c0fff" version="1">No ore takes better to being forged than the infernal iron of Avernus, where the archdevil Zariel presides.</content>
+  <content contentuid="ha88f16f9g670dg9e86g7375g4b412b28268f" version="6">Potion of Sorcerous Flight</content>
+  <content contentuid="hb209d4a9g4cc2g7e1fg676ag21b0ddf80d01" version="6">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h9f46714fg7229g0620g2837gcbff7c46d8d9" version="6">Grants the ability to fly to a nearby spot without provoking OpportunityAttack. The bottle contains a shimmering, mist-like fluid that shifts in and out of view. Once consumed, the user becomes momentarily incorporeal, slipping through space with arcane grace. Their movement is sudden and silent, untouched by foes - an elegant escape borne of pure sorcery.</content>
+  <content contentuid="h62f9e95dg9fd1gc69cg8ed8g318ea18c3aed" version="2">Potion of Sorc Wind Flying</content>
+  <content contentuid="hd8d45f43gf192ge27dg5263g0843e293a1b5" version="2">Sorc Flight</content>
+  <content contentuid="hc0cf3422g9d89g3f64g4b43g8f2153d73e21" version="1">Fly to a nearby spot without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="hea43f236g023eg43d1gec12g0cc091c8551d" version="7">Potion of Static Drift - Electric</content>
+  <content contentuid="hc96e49acge7dege9c8g9a43ga45f2983679d" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hb45c0743g6e25g0fe4gdc89ga387ec309432" version="7">Grants the ability to soar to the target location, surrounded by a harmless surge of crackling electricity. The bottle contains a shimmering, pale blue liquid that gently hums with energy. Once consumed, the user is enveloped in an electric aura, with sparks harmlessly arcing around them as they fly. The electricity is purely visual, offering a vibrant and dynamic display without causing any harm to the user or those nearby.</content>
+  <content contentuid="h8eeb1ee6g56a6g7afbg94a6g081d14b69158" version="7">Potion of Thunderous Surge - Electric Harmful</content>
+  <content contentuid="ha278ae7ag9c59g847ageea5g67e9108a0d79" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h6dca14ccga968g9035g51cbgb3f75605ed14" version="7">Upon landing, this potion strikes the target and forms an electrified layer of water on the ground, crackling with energy. The bottle is filled with a shimmering, translucent liquid that pulses with electric charge. Once consumed, the potion releases a surge of power, transforming the ground into a dangerous, electrified surface that crackles with lightning, ready to shock anyone who steps too close.</content>
+  <content contentuid="h252e1f9eg59a4g3860g7e41g7e49843442e5" version="8">Potion of Icy Drift - Cold</content>
+  <content contentuid="ha20fc4d5g1a17g641agd1f8g7c57489d4214" version="8">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="ha768efa2g2f03g5832g6f33g2c45d2739716" version="8">Grants the ability to fly to the target position, surrounded by swirling snow and biting frost. The cold mist is purely atmospheric, creating a chilling effect without causing harm. The bottle contains a cool, crystal-clear liquid, faintly glowing with a soft blue hue. As the potion is consumed, the user becomes enveloped in a gentle snowstorm, with flurries of snow and frost swirling around them, offering a beautiful, harmless display of winter’s touch.</content>
+  <content contentuid="h94e053e6gf2c1g433dg1bdeg36bdfc603d96" version="8">Potion of Frostbound Impact - Cold Harmful</content>
+  <content contentuid="h38aeda7ega545gf2degf265g89e38be9eb7d" version="8">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hb163de29gc220gf7b2g24d7g49cde126461f" version="8">Upon landing, this potion strikes the target with a chilling force, freezing the surroundings and creating a patch of ice that spreads out in all directions. The bottle is filled with a frosty, pale-blue liquid that shimmers with cold energy. Once consumed, the potion releases an overwhelming wave of freezing power, encasing the area in ice and frost, causing harm to anyone trapped within the frozen zone.</content>
+  <content contentuid="h331ef123g62b0ga51bge50fg26b8c1f58ac1" version="7"> Potion of Molten Fury - Fire Harmful</content>
+  <content contentuid="he9df7865gff54ga25eg565cg920cdea3b1ee" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h856e450egce8dgb1f5g7932g53bf72b2e5be" version="7">This powerful potion grants the drinker the ability to soar through the skies, surrounded by an aura of fierce, swirling flames. Upon striking the target on land, it causes the earth to melt, forming a scorching patch of flames that burns everything within its reach. The bottle is filled with a glowing, molten orange liquid that flickers like a living flame, radiating intense heat and power.</content>
+  <content contentuid="hc88a5b56gd08bg3a80gdfc1g857fdd258aa9" version="8">Potion of Blazing Passage - Fire</content>
+  <content contentuid="h79d7f17cgb5adgab0cgf593gfac99e5eb67a" version="8">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="haa407695g3517g9affg3a71gb7cc077b30a0" version="8">Grants the ability to fly to the target position, surrounded by a harmless yet intense blazing inferno. The fire engulfs the user without causing any harm, creating a dramatic, fiery aura that illuminates the surroundings. The bottle is filled with a vivid, fiery liquid that flickers like molten lava, its warm glow hinting at the fiery spectacle it unleashes, all while remaining safe for the user.</content>
+  <content contentuid="h5d53d051gda54gd52bgb77ag6de093ba2305" version="6">Potion of Shadow-Cursed Growth - Necrotic Harmful</content>
+  <content contentuid="hc5a94cbegd013g8575g01d9g3f2119ebdb16" version="6">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h9997d43eg793cg459bg7c4egd6638373d197" version="6">Upon landing, this potion strikes the target and forms a patch of Shadow-Cursed Vines on the ground, twisting and writhing with dark energy. The bottle is filled with a dark, viscous liquid that seems to pulse with an unsettling power, like the essence of forgotten magic. Once consumed, the ground is overtaken by these cursed vines, which spread rapidly, their thorns and shadows seeking to ensnare anything in their path.</content>
+  <content contentuid="h310023f3g7049g6dd0g44bcgf9f0288e94c8" version="6">Potion of Necrotic Drift - Necrotic</content>
+  <content contentuid="h3915cdecg06e5g2ad6g6a74gf0e20ffe130c" version="6">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h52bdbed3g47e8g931eg8ddbg1b2625464c3b" version="6">Grants the ability to soar to the target location, enveloped in a chilling necrotic aura that does not harm but leaves a cold, eerie presence in the air. The bottle contains a dark, swirling liquid that exudes an unsettling, faintly greenish glow. Once consumed, the user is surrounded by a soft, necrotic mist, its touch freezing the air around them without causing any harm - only a haunting, otherworldly atmosphere in their wake.</content>
+  <content contentuid="h502401aeg7870g0ba7gac19gdf6520b6e6cb" version="6">Potion of Poisonous Mist - Poison</content>
+  <content contentuid="he4162f71g74f9g9fe3g637cg2cd17094391e" version="6">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hd14424e7g4c86g9137gaebbg67687481bb7b" version="6">Grants the ability to soar to the target location, enveloped in a harmless noxious poison fog. The bottle contains a faintly greenish liquid, swirling gently within, with an aura of pungent but non-lethal fumes. Once consumed, the user is surrounded by the fog, which looks ominous and thick, but causes no harm to the user or those nearby - only leaving a slight, unsettling haze in the air.</content>
+  <content contentuid="hcbeda2a8gbe58g037fgd3abg38785e007f67" version="7">Potion of Toxic Impact - Poison Harmful</content>
+  <content contentuid="hcf91ae3cg4711g9aa3ge57cge95b6ca79140" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hdf2c1591g6be7g8c56g1e86g342ed9008041" version="7">Upon landing, this potion strikes the target, spreading a toxic puddle across the ground that corrodes and poisons all in its path. The bottle contains a viscous, sickly green liquid that bubbles with dangerous energy. Once consumed, the potion releases a noxious cloud, followed by the spread of venomous toxins that sizzle on the ground, capable of poisoning anyone unfortunate enough to step into the hazardous puddle.</content>
+  <content contentuid="h782bfe25ge78cg4deegd6bfge5cc0ca58eba" version="6">Potion of Mindglide - Psychic</content>
+  <content contentuid="h4a7eea7dgb06eg5eadge5abg8fd1e0446b96" version="6">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h09e606b6g1658g2e24gbf49g1daae1901f67" version="6">Grants the ability to soar to the target location, enveloped in a swirling aura of harmless psychic energy. The bottle holds a translucent, iridescent liquid that glimmers like thought itself. Once consumed, the user is gently surrounded by a flow of psychic currents.</content>
+  <content contentuid="hc78ba303g1e2eg4a47g2539g40db1be370c1" version="7">Potion of Psychic Resonance - Psychic Harmful</content>
+  <content contentuid="h681e1b78g27a0g32c3ge3dbgbff758adc63d" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hb75eca51g2d9bg7c50gaf23gc7a802604384" version="7">This potion grants the drinker the ability to release a powerful wave of psychic energy upon will. The bottle contains a shimmering, violet liquid, swirling with mental force. </content>
+  <content contentuid="h766d27abg7fa1g2eabgae05g8d8be901d631" version="7">Potion of Sacred Flamefall - Radiant Harmful</content>
+  <content contentuid="he78dac8eg6a83g8121g5068g4f0d3a46927f" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h4bb710e3gc1a6gee62g942fgb6f33f3936ac" version="7">Grants the ability to summon holy fire upon landing, engulfing the ground beneath in radiant, purifying flames. The potion’s golden liquid glows with divine warmth, flickering like a consecrated flame. Once consumed, the user becomes infused with celestial energy, and when they land, holy fire erupts in their wake - cleansing and burning all that stands in defiance of its light.</content>
+  <content contentuid="h0f990ff6gbf47g5639gc810ge20015e36e58" version="7">Potion of Blessed Ascent - Radiant</content>
+  <content contentuid="h3b278cfdg8110g73a0g6ee1gab7ffe3b0d60" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="he0970092g5e55g2c58g5626g4ddc0b87caac" version="7">Grants the ability to soar to the target location, enveloped in a harmless, radiant glow of holy power. The bottle contains a luminous, golden liquid that pulses gently with divine light. Once consumed, the user is surrounded by a warm, brilliant aura that shines like a beacon of hope - purely aesthetic, offering no harm, only a comforting, sacred presence as they travel through the air.</content>
+  <content contentuid="hfd44eaf7gbd42g890cg28e5g1af4405531b7" version="13">Potion of Needle Rain - Blood Harmful</content>
+  <content contentuid="hd156cc0dg84feg9207g4021gb40a65a06f2d" version="13">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h87a0bec8gf396g3018g0aaeg93f15d80e27b" version="13">This vile concoction unleashes a swarm of invisible needles that pierce the target and everything within range on land. The bottle is grotesquely filled with a disturbing mixture of organs and gore, the thick liquid sloshing with an unsettling viscosity. The faint sound of whispering in the liquid suggests a connection to something far darker. It’s a potion of hidden torment, meant to strike unseen and leave nothing untouched.</content>
+  <content contentuid="he0cb0c7eg1cbfg3013g1e9dge0cdb11635b1" version="11">Potion of Crimson Drift -Blood Harmful</content>
+  <content contentuid="h12e15017g0b21g7383ga361g468616530790" version="11">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h439e1520g24a5g1804g20adgc85f8657ebdb" version="11">This potion allows the drinker to soar to the target location, enveloped in a harmless yet eerie crimson haze. The bottle is filled with unsettling gore, its contents pulsing like the remnants of a twisted ritual. The viscous liquid swirls darkly inside, and though it may appear dangerous, the haze it creates is entirely harmless - only offering an unsettling, blood-red mist that gently surrounds the user as they fly.</content>
+  <content contentuid="h1d50f173g7b0ag2f63g13f8g34c6ff6a8d6a" version="9">Potion of Acidic Aegis - Acid Harmful</content>
+  <content contentuid="h54fbe6a6g75c1ga16fg905cg7b159a83d08e" version="9">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hfbf5f97eg29d6g0942gf165gac0110b388ce" version="9">Unleashes the ability to strike a target while flying, landing with a burst that leaves a sizzling puddle of acid on the ground. This potion is as light as a feather, so delicate that you might imagine it floating like a lilypad on the surface of the air if tossed high enough.</content>
+  <content contentuid="h1edf72c2gab93g6344g7768g81d48e3a63e7" version="7">Potion of Corrosive Veil - Acid</content>
+  <content contentuid="h4c255d02gf4ddg4faag5199g9232e3634cec" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h653c052eg183bg6e35ge04cgfdf386b3c17f" version="7">Grants the ability to fly to the target position, surrounded by a harmless yet dense cloud of corrosive acid. This cloud doesn’t harm, but instead creates an unsettling, misty aura around you. The potion’s bottle is light, its contents swirling with a translucent green hue, like mist trapped in liquid form.</content>
+  <content contentuid="h0b419fb9g066cg45cega48eg45eae359f222" version="2">Potion of Lightning Boom Flying</content>
+  <content contentuid="h5ca50248gd43egc44cg2946g9ae7b61c52e8" version="2">Potion of Lightning Flying</content>
+  <content contentuid="h03572870g50c8ge31bg9611gcf09010a670c" version="2">Lightning Wind Flight</content>
+  <content contentuid="h50111939g3304g86b9g080eg67c3b3c9447c" version="1">Fly to a nearby spot without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="h6e1e1274g05d1g1cb7g6829g6e550deaf586" version="2">Lightning Boom Flingt</content>
+  <content contentuid="h1b78047dgaf46gbdd7g8fe9g8f21176bda06" version="2">Acid Wind Flight</content>
+  <content contentuid="h889594dcg3299g1fc8g7d73gebab80801787" version="1">Fly to a nearby spot without receiving &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="h4f2eff89g4daeg5e4agce3bg47d0ef4c37c1" version="2">Acid Boom Flingt</content>
+  <content contentuid="hf252248fgbcb7gce57g2766g96ad06c14e65" version="2">Potion of Necro Flying</content>
+  <content contentuid="ha809815ag2c71g5606g7966ga485f0167a0c" version="2">Potion of Necro Boom Flying</content>
+  <content contentuid="h21645438g10f0g97cbg3846g6f0ae70514f2" version="2">Potion of Blood Flying</content>
+  <content contentuid="hfc457e02g8919g5080g5a67ge48cc1977a66" version="2">Potion of Blood Boom Flying</content>
+  <content contentuid="hd614256bgb1fag66bbg2111g12556c19b073" version="2">Potion of Fire Flying</content>
+  <content contentuid="h7229b3adg7bb7g7c97gb943g5e4d02cbdbbf" version="2">Potion of Fire Boom Flying</content>
+  <content contentuid="h7ff607b7g28adgdfabgc347g191828861db2" version="2">Potion of Frost Flying</content>
+  <content contentuid="h5357edd3gf731g995egcde0gc7e8f5fe2f85" version="2">Potion of Frost Boom Flying</content>
+  <content contentuid="h5c0d13f5gc878g420aga987gb552bab06014" version="2">Potion of Necro Flying</content>
+  <content contentuid="hd1c91371g7602g3056g934cgba26244c33db" version="2">Potion of Necro Boom Flying</content>
+  <content contentuid="hea927050gaa5dg1454g3f6dg15c5867ee15f" version="2">Potion of Poison Flying</content>
+  <content contentuid="h047dc013g7b6fg5f03g7d79g895b2d8bd793" version="2">Potion of Poison Boom Flying</content>
+  <content contentuid="h93877bceg63b4g17f5g5799g8611929d1647" version="2">Potion of Psy Flying</content>
+  <content contentuid="h9c1887dfg0ffbg00b4g5537g855209c377fc" version="2">Potion of Psy Boom Flying</content>
+  <content contentuid="h7853a42bgd9f3g5c49g41bcg9c891db2054a" version="2">Potion of Radiant Flying</content>
+  <content contentuid="h8467796dgba07gfc4cg1e8eg4f9c17e0774e" version="2">Potion of Radiant Boom Flying</content>
+  <content contentuid="had72e8a2g6eb0gcc3dg4c45gee456781e4b9" version="1">Dragon Fly</content>
+  <content contentuid="h8c71db15g8ba4g11b7g27e8g4cdca112fceb" version="1">Basic Fly</content>
+  <content contentuid="h35be0644g0a6ega3bag633egc858f4aed862" version="1">Blood Wind Flight</content>
+  <content contentuid="ha0b1bb01g738bg5961gb2f0g8c35c6cc03f8" version="1">Blood Boom Flingt</content>
+  <content contentuid="hecbc1e9bgea0eg7dafg4685g6c7ebbed3bad" version="1">Fire Wind Flight</content>
+  <content contentuid="hd3e1ea48g56aeg54e0ge21cgd6ed240b3ddf" version="1">Fire Boom Flingt</content>
+  <content contentuid="h33592fa8gc701g6deegd295g40e29303639e" version="1">Frost Wind Flight</content>
+  <content contentuid="hbb366be9ge186g5c26g673agcfbe126e8a2c" version="1">Frost Boom Flingt</content>
+  <content contentuid="h6822e705g966fg50cdg76degd7c6669e5647" version="1">Necro Wind Flight</content>
+  <content contentuid="h00af3a15g8339g19f0g1bf0gba8a7fa69464" version="2">Necro Boom Flingt</content>
+  <content contentuid="he44a88dbg0e7agb1a4g1618g33c12f9da35f" version="1">Poison Wind Flight</content>
+  <content contentuid="hdcb9e189g198egac35g1db0g2271eb2aa19c" version="1">Poison Boom Flingt</content>
+  <content contentuid="habc47407g4735g3221gb94fg9270b1edacbb" version="1">Psy Wind Flight</content>
+  <content contentuid="h850eaf94gd342g9403g22e8g0c661f1c0c6c" version="1">Psy Boom Flingt</content>
+  <content contentuid="hd9eb2b72gb6cfg1965gffcegcfb4f1a0df70" version="1">Radiant Wind Flight</content>
+  <content contentuid="h3eb7367cg608fgcd52g7f2ege7bbd6300cea" version="1">Radiant Boom Flingt</content>
+  <content contentuid="h88d5568dge58cg2f63gf05eg862a90280bf0" version="1">Elixir of Dragonborn Prowess: Frost</content>
+  <content contentuid="h632c4ff6gdbc2g2ddbg7503gc5fafbe2657b" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intimidation and Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold damage, and can use &lt;LSTag Type="Spell" Tooltip="Target_MOO_BloodPotion_IceStorm"&gt;Ice Storm&lt;/LSTag&gt; once until your next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hff98d309g308dgc13fg1f65gb59079e046c3" version="1">One of Blood Vendor Araj Obladra's elixirs, distilled from a specific sanguine quality, and with properties aligned to an equally specific race.</content>
+  <content contentuid="he9c57186g2c81gb5f4g48cdgd846c6e21549" version="1">Extravagant Potion Bottle</content>
+  <content contentuid="h5431065egfb6cg10d7g0538ge6d1621eb10f" version="1">An alchemist's bottle ornamented with exquisite precious metals. Likely meant for someone of high stature.</content>
+  <content contentuid="h2678a1ccge62dg8620g3ac8gc6fb7010d792" version="1">Potion of Regeneration</content>
+  <content contentuid="h434d1430g772ag76a4g7888g30bf41d5b4f8" version="1">Gain the ability to cast Gust of Wind once, blasting a line of wind that pushes creatures away, extinguishes flames, and disperses gases.&lt;br&gt;&lt;br&gt;&lt;i&gt;The howl of wind can be heard within this lightly vibrating bottle.&lt;/i&gt;</content>
+  <content contentuid="hee3a3666g54b6g75edg4122g33905eb40c42" version="1">Bottled Breath</content>
+  <content contentuid="h4a36a1eag84e9g59eag4917g76191719e1b5" version="1">Gain the ability to cast &lt;LSTag Type="Spell" Tooltip="Zone_GustOfWind"&gt;Gust of Wind&lt;/LSTag&gt; once.</content>
+  <content contentuid="h12b0c62fgaf5dg108ag24bcg35950aa4d41b" version="1">The howl of wind can be heard within this lightly vibrating bottle.</content>
+  <content contentuid="h845f3ccfg35aegfed0g0785gc76abec24be3" version="1">Elixir of Immortality</content>
+  <content contentuid="he2cd03e0g7ff9g23c3g296fg4cca039bab9a" version="1">Potion Bottle</content>
+  <content contentuid="h81b7c170gc4cfge08fgd382g58e59e2b0717" version="1">An alchemist's bottle. A candle set into its base warms any draught contained within.</content>
+  <content contentuid="h3c9b4dc9g37dfge6abg4cd7g5a140e629c0b" version="1">Potion of Vitality</content>
+  <content contentuid="h524806c8g300fg3a9cg5260gc91e9e393dab" version="1">Drink</content>
+  <content contentuid="h71497951g106agfbb2g62fbgeeab9de34bff" version="1">Cures any poison or disease.</content>
+  <content contentuid="h4077ceccg1102gfbadg7f5ag39d09f891774" version="1">A coveted restorative for the adventurer on their last legs.</content>
+  <content contentuid="h4c2eab50g8997g68b8g5856g129ae61be6c3" version="9">Potion of Eternal Night - Darkness Harmful</content>
+  <content contentuid="hf40c5d2bg15f6gcf55g0be8gb948d5cf422c" version="9">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h962134bfg4731gb3ffg918bgd2f03a3d2e3f" version="9">Upon striking the target, this potion unleashes an intense wave of pitch-black darkness, blinding all within its reach. The bottle is filled with a thick, inky liquid that seems to absorb light, its surface swirling with shadows as if alive. When consumed, the drinker becomes a conduit for the abyss, summoning a suffocating blackness that blinds and disorients anyone caught within its embrace.</content>
+  <content contentuid="h70031cf7gd395gb98fgf564g8bb826b72a15" version="9">Potion of Shadowed Flight - Darkness</content>
+  <content contentuid="h19f934f0gb781g2368gbf55gc548d6f1e969" version="9">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h6ad7ec48gf248g2688g1bafg59f0503f47c5" version="9">Grants the ability to soar to the target location, enveloped in an impenetrable darkness that poses no harm to those nearby. The bottle is filled with a deep, swirling black liquid, almost as if it contains the essence of night itself. The darkness it creates is thick and foreboding, but it’s harmless, acting as a veil to conceal the user as they move through the air without causing harm to others.</content>
+  <content contentuid="hcc93111bg1f86g0f97g2fbdg4b6bea9a3c07" version="9">Potion of Grounding - Clean the Fly Abilities</content>
+  <content contentuid="h22e536aag0bbcgccedg78c2gcad5c97b94bf" version="9">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h1833a5e2g054fgb3f3g7d9bga05f4ee2f825" version="9">This peculiar brew has the power to cleanse all flight abilities granted by other potions, grounding the user entirely. The bottle is filled with a thick, dark liquid that seems to pulse with a faint, rhythmic throb, almost as if it’s resisting its own power. When consumed, the liquid quickly dissipates into the air like dust, and with it, all effects of flight vanish, leaving the user firmly planted on the ground.</content>
+  <content contentuid="h65060908g52c2geae6g6cabgf200c2b55a23" version="2">Dark Wind Flight</content>
+  <content contentuid="he825d0a8g7a2ag25fegaf63g31d2ccc49e74" version="2">Dark Boom Flingt</content>
+  <content contentuid="h2c413da5g2f28g0edcgd019g830ee46e1038" version="2">Potion of Dark Flying</content>
+  <content contentuid="hd6834847ge82bg6f9cg066cgdf2b78713ded" version="2">Potion of Dark Boom Flying</content>
+  <content contentuid="h86f75c8cg2bc3gd440g5ca6ge52bdf7db114" version="7">Potion of Sporecalm Descent - Spore Harmful</content>
+  <content contentuid="h8807d298g6676g346cg3e41g4b32b8497603" version="7">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="hc087be60g5c91gba3agf811gfe7bfeba5e09" version="7">Grants the ability to unleash a spore-filled cloud upon landing, gently pacifying all within its reach. The bottle contains a soft, greenish mist that swirls with tiny glowing flecks, like drifting pollen. Once consumed, the user becomes a conduit of natural stillness - upon touching down, a tranquil cloud bursts forth, calming minds and easing aggression with the subtle power of enchanted spores.</content>
+  <content contentuid="hf5e46480g2676gb528g6445g9b5acf12c8d3" version="6">Potion of Gentle Bloom - Spore</content>
+  <content contentuid="h762d9b87g1840g0ebegaaa5g83402de5fbcc" version="6">Drink to gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
+  <content contentuid="h5fa33d38gdd0dg1418g1dd1gece2a410f479" version="6">Grants the ability to soar to the target location, enveloped by a swirling cloud of harmless spores. The bottle holds a soft, amber-toned liquid flecked with tiny floating motes. Once consumed, the user drifts through the air in a slow, graceful arc, trailed by a gentle cloud of spores that dance and shimmer harmlessly - an elegant display of nature’s magic in motion.</content>
+  <content contentuid="he347971fgba5eg63d0g2840g481a67de82f6" version="2">Potion of Spore Flying</content>
+  <content contentuid="h58f88260g3dfcgc6a1gee0eg447208d0df89" version="2">Potion of Spore Boom Flying</content>
+  <content contentuid="hae1b61a8g576ag87beg3af5ga627952bf99b" version="2">Spore Wind Flight</content>
+  <content contentuid="h576a8857gc0bfg02afg786bg2bc740f78006" version="2">Spore Boom Flingt</content>
+  <content contentuid="h62d1dc1dg0089gf6d5g3fedgdd1af9d0f6af" version="2">Potion of Fly Cleaning</content>
+  <content contentuid="he483e646gde8egc42fg4c19g277242fde53e" version="1">Potion of Fly Cleaning</content>
+  <content contentuid="h103e5191gbfacg4615g5d53gce30c07d578e" version="1">Bottle Rack</content>
+  <content contentuid="h923d67d2g3c75g501bgbb05g3512f0a311f8" version="1">A small collection of various tinctures and tonics.</content>
+  <content contentuid="hd7b387e6g2e2dgc191gd3c0g1b9e82f9be67" version="2">Soar to the target location, engulfed in a storm of rumbling thunder.</content>
+  <content contentuid="ha0843355g1376gf6a8ge1bcgdd4a2dd1bebe" version="5">Unleashes a thunderous strike on the landing, dealing damage to all nearby and evaporating the water.</content>
+  <content contentuid="h8dfaae51g14b2ga17dg8343g51b3cc52efe7" version="2">Soar to the target location, engulfed in a surge of crackling electricity.</content>
+  <content contentuid="h41b592f4g1b78g7a47gbd71g20465bcba351" version="2">Fly to the target position, surrounded by a corrosive acid cloud.</content>
+  <content contentuid="he19211afgade6gf851g5684g65b1372a72f6" version="2">Soar to the target location, enveloped in a crimson haze.</content>
+  <content contentuid="hc9dafe3ag658dg6e48gfb4dg01e1f5157b57" version="2">Fly to the target position, surrounded by a blazing inferno.</content>
+  <content contentuid="h0068edddg5df2g56bcg3badg0dce6d57a43e" version="2">Fly to the target position, surrounded by swirling snow and biting frost.</content>
+  <content contentuid="h6b945eedg13b3g7841g6b96gbc016fc1f580" version="2">Soar to the target location, enveloped in a chilling necrotic aura.</content>
+  <content contentuid="hbe51c56ag9efcg5ef7g28d0g44f25801ecf8" version="2">Soar to the target location, engulfed in a noxious poison fog.</content>
+  <content contentuid="hb8c3fb06g46a9g481bg91ffgda0d003d6f8c" version="2">Soar to the target location, enveloped in a swirling psychic energy.</content>
+  <content contentuid="ha02933f6g30aagcf71g2a57ge9055a037234" version="2">Soar to the target location, enveloped in a radiant glow of holy power.</content>
+  <content contentuid="h874dd145g66e7g2d12g400egb404ba0f5831" version="2">Soar to the target location, engulfed in an impenetrable darkness.</content>
+  <content contentuid="h9d25c6b0ga056g7bd7g580dg5d7bac1668b1" version="2">Soar to the target location, enveloped by a swirling cloud of spores.</content>
+  <content contentuid="hc48ea411g4caagd6bbgc48bg0a3a66073234" version="2">Strikes the target on landing, forming an electrified layer of water on the ground.</content>
+  <content contentuid="hf3999aeagb684g20f0ge75cg62259fe1fae2" version="2">Hits the target on landing, leaving a puddle of acid sizzling on the ground.</content>
+  <content contentuid="h355d806bga889g457agdecdg0220085b1ab9" version="3">Strikes the target on landing, melting the earth to form a searing patch of flames.</content>
+  <content contentuid="h6d11894dgc600g877fga924g02dc731f545f" version="2">Strikes the target on landing, freezing the surroundings and creating a patch of ice.</content>
+  <content contentuid="hb9bd5843gbca5gb595gb644gcee117f4430f" version="2">Strikes the target on landing, forming a patch of Shadow-Cursed Vines on the ground.</content>
+  <content contentuid="h96117ec6g4f93ga4b5g88d4g5f9cdc897ea5" version="2">Many invisible needles pierce the target and everything around it on landing.</content>
+  <content contentuid="he70e07beg0571ga02fg36fegc896fbdd5672" version="2">Strikes the target on landing, spreading a toxic puddle across the ground.</content>
+  <content contentuid="h3a7e27a4g2e0cgd150g5e05gc704016f1a81" version="3">On landing releases a wave of psychic energy that ripples across the land.</content>
+  <content contentuid="hc7ec2e68g947bg10fdg4f82g512079fd933b" version="4">Strikes the target on landing, summoning holy fire to engulf the ground beneath.</content>
+  <content contentuid="h23a22619gc9ebg718bgd7a7ga3ffe45a6e82" version="2">Strikes the target and unleashes pitch-black darkness on landing, blinding all within its reach.</content>
+  <content contentuid="hdcfa8608g8272gd25agd437g4806d63e68c0" version="2">On landing unleashes a spore-filled cloud that soothes and pacifies all within its reach.</content>
+</contentList>

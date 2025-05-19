@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eeb8ae47-9f32-4a3f-840b-85f215f56616" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Chest_Heavy_A_Small_EL_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="21d870fb-3a59-47da-bef2-9bf912e6ea8c" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="43ee977b-fcbc-4901-825b-86fddd96d760" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="10" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ad3db5dc-7d88-49bd-a700-41a5af41adab" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_BasicDragon" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c668f023-a00f-433a-b11d-a2b9d8d4ab37" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c2115223-b9dd-46dc-a8b0-8590f89b1ed4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_Basic" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ffe187d5-71d4-4f3d-b84c-2b2cf34288a5" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c853673e-ddd2-42c9-89da-e3ff62ce6330" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_SorecWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="107c77bc-fc87-483c-baa4-1bd96c1b779d" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="727932c9-2f7c-4e7f-af65-4431af96beee" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_ThunderWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="29f4426a-5600-4a5d-b7b7-701dc2dfe004" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f4924318-e477-42ca-a491-d712dfe29a63" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_ThunderBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4ef4a871-ae9f-4b2d-9c49-b82ebdce42b2" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="091ec8da-0a57-42f7-9f93-5542837e7f5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_LightningWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="de6e9217-0c19-4a67-b4af-6c3f88f909ad" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e6b054c6-42aa-4ef0-b469-5af6bb8998d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_LightningBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a04b356b-f4b0-4d99-933c-61bfa80b6277" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e6c33ef7-c527-4770-a859-00441e03e622" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_AcidWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="777e0edd-1ee8-491b-a77a-fdb7c8f3a20f" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a2948da6-2867-4ca1-8ccc-2808b0382471" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_AcidBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="616c33fd-1a1c-4f7e-8752-f45e6593bbff" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8e46c47-c0d8-4c7f-8c3f-dd90b920a87b" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_BloodWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c3fc2e89-2dab-4573-8b9b-b3da41ed47b6" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="52f8c3b3-b939-44f3-b8b2-d7d897430d57" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_BloodBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c5121253-ddea-4c4a-8ff7-ede50b4aafbd" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5e3856c4-c06a-4af6-880c-d4cb99a66517" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_FireWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="252c9b0e-0663-487b-bfaa-3ade716b2433" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFF8C00" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="22244ff8-95c8-45af-8e66-2afad270ec9e" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_FireBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="550d5960-d81e-48a7-bbd0-bd73174a4a02" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eff9213f-c5a3-45cd-be64-1b9be6f7c231" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_FrostWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f2ba761d-3457-4718-a05c-3842b8a0cc5e" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="00e7a394-501e-454b-baae-f924dba523c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_FrostBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="356f2f33-6ba5-41e9-b7ae-6e18762305c9" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4356cb3e-12df-4ce6-83e0-d1400a339c39" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_NecroWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="47d7736d-2793-4c04-9895-eb935780a2c7" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90d48edd-f3ca-44f3-af24-6017ed173d5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_NecroBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8e111a4f-c26b-4fba-b876-3385273cb5cc" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF228B22" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a6ecf353-eda1-4c80-a64a-5e264ac12a5e" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_PoisonWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="95142b23-55c0-4c02-9cab-9682942752e5" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF228B22" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="55e66875-9722-4cb2-840b-4a923a84d9b7" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_PoisonBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8e3a316a-f6b8-4100-90e0-0000917038bf" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1e00c55a-dd5a-47b5-abbf-408a090378f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_PsyWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="49060d4a-96bd-480d-8c10-4a160aa78403" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B008B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="35793ecc-6045-458d-990e-8334c0e92c82" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_PsyBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="55c12734-6a4f-4780-9349-4469b9dbec1c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="302e40d8-1b83-489a-bf0b-5defa0b9b483" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_RadiantWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="65e2abeb-4653-495e-beaf-e168ed2e6410" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFDEB887" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="92e070d9-b935-4d28-acbe-a96bd9bcf9b8" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_RadiantBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="62876d4e-e777-49be-9866-5b57c84c2d49" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56a979e3-343c-4dbb-9f70-e79742ce9ee0" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_DarkWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a288ac94-f51d-4ddf-a0db-3f2da467f3f6" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="158bec02-70e5-4e1c-99d5-595422bc70c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_DarkBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="604daa4a-05bb-42f3-b038-b27e518d2929" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFA8072" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3710c8bd-590b-4188-a0b3-c0e51b3e292a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_SporeWind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e8163871-6d21-4059-9a74-7dde4593ebaa" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFA8072" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2ae31d01-0ff5-483b-93a0-78b207cfe492" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_SporeBoom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="25ee09ed-1308-4ea4-8bc8-1f5ba8334a00" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7c393cf6-7995-49c4-9ead-f6a301c00c4d" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_POF_Potion_Fly_Cleaning" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="57e3a660-170b-4e28-be1a-704a1b9ff780" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
