@@ -100,8 +100,7 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="AkELkA"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="A collection of magical brews that permanently grant unique flight abilities. Each potion offers a different flying style.
-Changed your mind? Use the Cleansing Potion to remove all flight effects and choose again."/>
+                    <attribute id="Description" type="LSString" value="A collection of magical brews that permanently grant unique flight abilities. Each potion offers a different flying style. Changed your mind? Use the Cleansing Potion to remove all flight effects and choose again."/>
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
@@ -113,7 +112,7 @@ Changed your mind? Use the Cleansing Potion to remove all flight effects and cho
                     <attribute id="PublishHandle" type="uint64" value="5001246"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="1db352a7-09b8-21be-2af4-5f15c96140cd"/>
-                    <attribute id="Version64" type="int64" value="36028797018963969"/>
+                    <attribute id="Version64" type="int64" value="36028797018963971"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718452951"/>

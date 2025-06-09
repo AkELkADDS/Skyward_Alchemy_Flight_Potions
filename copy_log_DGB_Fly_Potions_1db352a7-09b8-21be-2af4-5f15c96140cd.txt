@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd 
-   Mon 06/09/2025  0:06:52.58 
+   Mon 06/09/2025  6:10:08.24 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -277,7 +277,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, June 9, 2025 12:07:05 AM
+  Started : Monday, June 9, 2025 6:10:13 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
 
@@ -288,20 +288,20 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     693	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx100%  
-	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\thumbnail.PNG 26%  100%  
+	    New File  		  258186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\thumbnail.PNG100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         1         1         1         0         0         0
    Files :         2         2         0         0         0         0
-   Bytes :    1.91 m    1.91 m         0         0         0         0
+   Bytes :   252.8 k   252.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2005385000 Bytes/sec.
-   Speed :           114749.050 MegaBytes/min.
-   Ended : Monday, June 9, 2025 12:07:05 AM
+   Speed :           258879000 Bytes/sec.
+   Speed :           14813.175 MegaBytes/min.
+   Ended : Monday, June 9, 2025 6:10:13 AM
 
  
 [DEBUG] Counting source files 
@@ -327,7 +327,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, June 9, 2025 12:07:07 AM
+  Started : Monday, June 9, 2025 6:10:14 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
 
@@ -337,6 +337,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		     789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.tbl100%  
 	    New File  		    1344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\045b4c22-4059-47b3-864e-0a4a5ff7a1a3.mei100%  
 	    New File  		    4272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\055ecab1-3fc7-48fd-a4aa-5655f460178c.mei100%  
 	    New File  		    5373	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\0b05171b-4798-4930-88a8-a9e011c0b693.mei100%  
@@ -371,7 +372,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    4259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4abc447-6c8e-43f8-bc23-7326b2a80cbc.mei100%  
 	    New File  		    4264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4f27c5c-9dff-4f11-9e02-56358a621823.mei100%  
 	    New File  		    4278	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f6ef4547-3858-4105-8381-22153384f791.mei100%  
-	    New File  		     789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.tbl100%  
 	    New File  		     162	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\2370cfd1-772f-498f-9c18-5007780e9424.group100%  
 	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\355982bd-05a0-4f8e-af37-326e38ff3df3.group100%  
 	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\3657c838-3c17-4784-b658-bfe1d0fc1a75.group100%  
@@ -386,9 +386,9 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\d25b9adc-1b0f-49fa-8d91-83266be25b95.group100%  
 	    New File  		     156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\Groups\d2f6cbe6-e8a3-49f6-9aa4-e4742b70a84f.group100%  
 	    New File  		   75431	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\SpellData\Projectile.stats100%  
+	    New File  		   43579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\StatusData\Status_BOOST.stats100%  
 	    New File  		   26690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Stats\Object.stats100%  
 	    New File  		     145	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\Stats\Passive.stats100%  
-	    New File  		   43579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\StatusData\Status_BOOST.stats100%  
 	    New File  		   24822	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Stats\TreasureTable\TreasureTable.stats100%  
 
 ------------------------------------------------------------------------------
@@ -400,9 +400,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            22967769 Bytes/sec.
-   Speed :            1314.226 MegaBytes/min.
-   Ended : Monday, June 9, 2025 12:07:07 AM
+   Speed :            24881750 Bytes/sec.
+   Speed :            1423.745 MegaBytes/min.
+   Ended : Monday, June 9, 2025 6:10:14 AM
 
  
 [DEBUG] Counting source files 
@@ -428,7 +428,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, June 9, 2025 12:07:08 AM
+  Started : Monday, June 9, 2025 6:10:16 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
 
@@ -438,60 +438,10 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   11293	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx100%  
-	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\mod_publish_logo.png100%  
+	    New File  		   11292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\meta.lsx100%  
+	    New File  		  258186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\mod_publish_logo.png100%  
 	    New File  		    8899	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\metadata.lsf100%  
 	    New File  		   48340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Localization\English\english.xml100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_AcidBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_AcidWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_BloodBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_BloodWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_DarknessBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_DarknessWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_DragonWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_FireBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_FireWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_IceBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_IceWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_LightningBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_LightningWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_NecroBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_NecroWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PoisonBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PoisonWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PsyBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PsyWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_RadiantBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_RadiantWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_SporeBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_SporeWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_ThunderBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_ThunderWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_AcidBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_AcidWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_BloodBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_BloodWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_DarknessBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_DarknessWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_DragonWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_FireBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_FireWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_IceBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_IceWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_LightningBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_LightningWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_NecroBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_NecroWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PoisonBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PoisonWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PsyBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PsyWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_RadiantBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_RadiantWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_SporeBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_SporeWind.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_ThunderBoom.DDS100%  
-	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_ThunderWind.DDS100%  
 	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\AssetsLowRes\ControllerUIIcons\skills_png\Skill_POF_AcidBoom.DDS100%  
 	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\AssetsLowRes\ControllerUIIcons\skills_png\Skill_POF_AcidWind.DDS100%  
 	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\AssetsLowRes\ControllerUIIcons\skills_png\Skill_POF_BloodBoom.DDS100%  
@@ -542,19 +492,69 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\AssetsLowRes\Tooltips\Icons\Skill_POF_SporeWind.DDS100%  
 	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\AssetsLowRes\Tooltips\Icons\Skill_POF_ThunderBoom.DDS100%  
 	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\AssetsLowRes\Tooltips\Icons\Skill_POF_ThunderWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_AcidBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_AcidWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_BloodBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_BloodWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_DarknessBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_DarknessWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_DragonWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_FireBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_FireWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_IceBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_IceWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_LightningBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_LightningWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_NecroBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_NecroWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PoisonBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PoisonWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PsyBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_PsyWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_RadiantBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_RadiantWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_SporeBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_SporeWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_ThunderBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\ControllerUIIcons\skills_png\Skill_POF_ThunderWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_AcidBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_AcidWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_BloodBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_BloodWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_DarknessBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_DarknessWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_DragonWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_FireBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_FireWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_IceBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_IceWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_LightningBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_LightningWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_NecroBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_NecroWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PoisonBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PoisonWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PsyBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_PsyWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_RadiantBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_RadiantWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_SporeBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_SporeWind.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_ThunderBoom.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\Assets\Tooltips\Icons\Skill_POF_ThunderWind.DDS100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        14        14         1         0         0         0
    Files :       104       104         0         0         0         0
-   Bytes :   10.63 m   10.63 m         0         0         0         0
+   Bytes :    8.96 m    8.96 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           557561200 Bytes/sec.
-   Speed :           31903.907 MegaBytes/min.
-   Ended : Monday, June 9, 2025 12:07:08 AM
+   Speed :           254181540 Bytes/sec.
+   Speed :           14544.384 MegaBytes/min.
+   Ended : Monday, June 9, 2025 6:10:16 AM
 
  
 [DEBUG] Counting source files 
@@ -580,7 +580,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, June 9, 2025 12:07:10 AM
+  Started : Monday, June 9, 2025 6:10:17 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\
 
@@ -591,7 +591,6 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   12211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\GUI\POF_FlySkills_64px_Atlas.lsx100%  
-	    New File  		     600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.lsx100%  
 	    New File  		    2534	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\045b4c22-4059-47b3-864e-0a4a5ff7a1a3.lsf100%  
 	    New File  		    5127	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\055ecab1-3fc7-48fd-a4aa-5655f460178c.lsf100%  
 	    New File  		    6053	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\0b05171b-4798-4930-88a8-a9e011c0b693.lsf100%  
@@ -626,6 +625,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    5125	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4abc447-6c8e-43f8-bc23-7326b2a80cbc.lsf100%  
 	    New File  		    5119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f4f27c5c-9dff-4f11-9e02-56358a621823.lsf100%  
 	    New File  		    5159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\MultiEffectInfos\f6ef4547-3858-4105-8381-22153384f791.lsf100%  
+	    New File  		     600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\OneTimeRewards\OneTimeRewards.lsx100%  
 	    New File  		    3894	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\107c77bc-fc87-483c-baa4-1bd96c1b779d.lsf100%  
 	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\252c9b0e-0663-487b-bfaa-3ade716b2433.lsf100%  
 	    New File  		    3890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd\RootTemplates\25ee09ed-1308-4ea4-8bc8-1f5ba8334a00.lsf100%  
@@ -671,9 +671,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            49168857 Bytes/sec.
-   Speed :            2813.464 MegaBytes/min.
-   Ended : Monday, June 9, 2025 12:07:10 AM
+   Speed :            45890933 Bytes/sec.
+   Speed :            2625.900 MegaBytes/min.
+   Ended : Monday, June 9, 2025 6:10:17 AM
 
  
 [DEBUG] Counting source files 
